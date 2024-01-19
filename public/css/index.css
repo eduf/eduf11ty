@@ -18,6 +18,8 @@
 	--text-color-link-visited: #17050F;
 
 	--syntax-tab-size: 2;
+
+	--main-font-size: clamp(16px, 16px + 0.50vw, 22px);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -27,11 +29,11 @@
 		--color-gray-90: #dad8d8;
 
 		/* --text-color is assigned to --color-gray-_ above */
-		--text-color-link: #1493fb;
-		--text-color-link-active: #6969f7;
-		--text-color-link-visited: #a6a6f8;
+		--text-color-link: rgb(201, 92, 3);
+		--text-color-link-active: #918773;
+		--text-color-link-visited: #b8b9b9;
 
-		--background-color: #15202b;
+		--background-color: #1d2021;
 	}
 }
 
@@ -43,6 +45,7 @@
 
 html,
 body {
+	font-size: var(--main-font-size);
 	padding: 0;
 	margin: 0 auto;
 	font-family: var(--font-family);
@@ -53,7 +56,7 @@ html {
 	overflow-y: scroll;
 }
 body {
-	max-width: 40em;
+	max-width: 40.625rem;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -72,10 +75,13 @@ p:last-child {
 }
 p {
 	line-height: 1.5;
+	text-wrap: pretty;
+	max-width: 60ch;
 }
 
 li {
 	line-height: 1.5;
+	text-wrap: pretty;
 }
 
 a[href] {
@@ -265,6 +271,9 @@ a[href].header-anchor:focus,
 	color: #aaa;
 }
 
+h1 {
+	text-wrap: balance;
+}
 h2 + .header-anchor {
 	font-size: 1.5em;
 }
