@@ -82,6 +82,7 @@ p {
 li {
 	line-height: 1.5;
 	text-wrap: pretty;
+	max-width: 58ch;
 }
 
 a[href] {
@@ -98,15 +99,13 @@ a[href]:active {
 }
 
 main {
-	padding: 1rem;
+	padding: 2rem;
+	margin: 0 auto 0 auto;
 }
 main :first-child {
 	margin-top: 0;
 }
 
-header {
-	border-bottom: 1px dashed var(--color-gray-20);
-}
 header:after {
 	content: "";
 	display: table;
@@ -274,14 +273,22 @@ a[href].header-anchor:focus,
 }
 
 h1 {
+	font-size: clamp(2rem, 4vw, 3rem);
 	text-wrap: balance;
+	line-height: 1.1;
 }
 h2 + .header-anchor {
-	font-size: 1.5em;
+	font-size: clamp(1.5rem, 4vw, 2.5rem);
+	line-height: 1.1;
 }
-img :is(> p) {
+img {
 	max-width: 100%;
 	height: auto;
 	display: block;
 	border: 1px solid red;
+}
+hr {
+	border: 1px solid var(--color-04);
+	margin: 2.2rem 0 2.2rem 0;
+	padding: 0;
 }
