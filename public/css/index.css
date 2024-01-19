@@ -79,13 +79,13 @@ p:last-child {
 p {
 	line-height: 1.5;
 	text-wrap: pretty;
-	max-width: 58ch;
+	max-width: 60ch;
 }
 
 li {
 	line-height: 1.5;
 	text-wrap: pretty;
-	max-width: 58ch;
+	max-width: 60ch;
 }
 
 a[href] {
