@@ -9,6 +9,7 @@
 	--color-gray-20: #e0e0e0;
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
+	--color-03: #918773;
 
 	--background-color: #fff;
 
@@ -20,6 +21,7 @@
 	--syntax-tab-size: 2;
 
 	--main-font-size: clamp(16px, 16px + 0.50vw, 22px);
+	--letter-spacing-narrow: -0.03rem;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -27,6 +29,7 @@
 		--color-gray-20: #e0e0e0;
 		--color-gray-50: #C0C0C0;
 		--color-gray-90: #dad8d8;
+		--color-03: #918773;
 
 		/* --text-color is assigned to --color-gray-_ above */
 		--text-color-link: rgb(201, 92, 3);
@@ -101,6 +104,7 @@ a[href]:active {
 main {
 	padding: 2rem;
 	margin: 0 auto 0 auto;
+	max-width: 700px;
 }
 main :first-child {
 	margin-top: 0;
@@ -273,22 +277,25 @@ a[href].header-anchor:focus,
 }
 
 h1 {
-	font-size: clamp(2rem, 4vw, 3rem);
+	font-size: clamp(2rem, 4vw, 2.2rem);
 	text-wrap: balance;
 	line-height: 1.1;
+	letter-spacing: var(--letter-spacing-narrow);
 }
 h2 + .header-anchor {
-	font-size: clamp(1.5rem, 4vw, 2.5rem);
+	font-size: clamp(1.3rem, 4vw, 1.8rem);
 	line-height: 1.1;
 }
 img {
 	max-width: 100%;
 	height: auto;
 	display: block;
-	border: 1px solid red;
 }
 hr {
 	border: 1px solid var(--color-04);
 	margin: 2.2rem 0 2.2rem 0;
 	padding: 0;
+}
+*::marker {
+	color: var(--color-03);
 }
