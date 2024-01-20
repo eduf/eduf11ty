@@ -34,7 +34,7 @@
 		/* --text-color is assigned to --color-gray-_ above */
 		--text-color-link: rgb(201, 92, 3);
 		--text-color-link-active: #918773;
-		--text-color-link-visited: #b8b9b9;
+		--text-color-link-visited: #918773;
 
 		--background-color: #1d2021;
 	}
@@ -77,13 +77,13 @@ p:last-child {
 	margin-bottom: 0;
 }
 p {
-	line-height: 1.5;
+	line-height: calc(var(--main-font-size)*1.55);
 	text-wrap: pretty;
 	max-width: 55ch;
 }
 
 li {
-	line-height: 1.5;
+	line-height: calc(var(--main-font-size)*1.55);
 	text-wrap: pretty;
 	max-width: 55ch;
 }
@@ -104,7 +104,6 @@ a[href]:active {
 main {
 	padding: 2rem 2vh 2rem 2vh;
 	margin: 0 auto 0 auto;
-	max-width: 30rem;
 }
 main :first-child {
 	margin-top: 0;
@@ -245,9 +244,6 @@ header {
 
 /* Tags list */
 .post-metadata {
-	color: var(--color-gray-50);
-	font-size: 0.85rem;
-	font-family: var(--font-family-monospace);
 	display: inline-flex;
 	flex-wrap: wrap;
 	gap: 1rem;
@@ -257,6 +253,11 @@ header {
 }
 .post-metadata time {
 	margin-right: 1rem;
+}
+.postlist-date, .post-metadata {
+	color: var(--color-gray-50);
+	font-size: 0.85rem;
+	font-family: var(--font-family-monospace);
 }
 
 /* Direct Links / Markdown Headers */
@@ -289,6 +290,15 @@ h2 + .header-anchor {
 	font-size: clamp(1.3rem, 4vw, 1.8rem);
 	line-height: 1.1;
 }
+h2:not(:first-child), h3, h4 {
+	padding: 1rem 0 0 0;
+}
+h2, h3, h4 {
+	color: var(--color-gray-50);
+	font-weight: 600;
+	line-height: 1.1;
+	margin-bottom: 0.3rem;
+}
 img {
 	max-width: 100%;
 	height: auto;
@@ -301,4 +311,9 @@ hr {
 }
 *::marker {
 	color: var(--color-03);
+}
+.footer {
+	margin-bottom: 2rem;
+	font-size: 0.9rem;
+	font-family: var(--font-family-monospace);
 }
