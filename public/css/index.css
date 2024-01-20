@@ -54,7 +54,6 @@ body {
 	font-family: var(--font-family);
 	color: var(--text-color);
 	background-color: var(--background-color);
-	height: 100vw;
 }
 html {
 	overflow-y: scroll;
@@ -318,4 +317,5 @@ hr {
 .article-wrapper {
 	max-width: 700px;
 	margin: 2rem auto 0 auto;
+	padding: 0 2vh 0 2vh;
 }
