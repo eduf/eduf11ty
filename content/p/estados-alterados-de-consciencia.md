@@ -2,7 +2,8 @@
 title: "Estados alterados de consciência"
 date: "2021-08-06"
 tags: 
-  - "diletante"  - "michael-pollan"
+  - "diletante"
+  - "michael-pollan"
   - "psicodelicos"
   - "psicologia"
 ---
