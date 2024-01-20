@@ -13,15 +13,15 @@ Olá, eu sou Eduardo Fernandes, roteirista, ghostwriter e jornalista de São Pau
 ### Alguns dos meus projetos atuais:
 
 <ul>
-    <li><a href="tags/newsletter/" rel="me">Newsletter Texto Sobre Tela</a>.</li>
-    <li><a href="tags/monoestereo/"  rel="me">Podcast MonoEstéreo</a>.</li>
+    <li><a href="../tags/newsletter/" rel="me">Newsletter Texto Sobre Tela</a>.</li>
+    <li><a href="../tags/monoestereo/"  rel="me">Podcast MonoEstéreo</a>.</li>
     <li><a href="https://www.youtube.com/c/eduardofernandex">Canal no YouTube</a>.</li>
 </ul>
 
 ### Trabalhos
 
 <ul>
-<li><a href="https://eduf.me/trabalho/">Mais recentes</a>, de roteiro. E alguns de design e adestramento de WordPress.</li>
+<li><a href="../tags/trabalho/">Mais recentes</a>, de roteiro. E alguns de design e adestramento de WordPress.</li>
 </ul>
 
 ### O que já fiz

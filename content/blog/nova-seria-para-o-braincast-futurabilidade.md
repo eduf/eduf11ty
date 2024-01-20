@@ -4,6 +4,8 @@ date: "2023-09-12"
 tags: 
   - "trabalho"
   - "futurabilidade"
+  - "b9"
+  - "Braincast"
 ---
 
 Mais uma série de roteiros para podcasts desenvolvida para a [B9 / Braincast](https://www.b9.com.br/shows/braincast/), a pedido da [Pearson Education](https://br.pearson.com/). Desta vez, falando sobre mercado de trabalho e educação.
