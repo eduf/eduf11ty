@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 # Sobre Eduf.me
 
-<img src="../blog/images/eduf_perfil640.webp" alt="Perfil do Eduf" />
+{% image "./eduf_perfil640.webp", "Perfil do Eduf" %}
 
 Olá, eu sou Eduardo Fernandes, roteirista, ghostwriter e jornalista de São Paulo, SP.
 
