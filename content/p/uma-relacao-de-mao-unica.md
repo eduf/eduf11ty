@@ -4,7 +4,7 @@ date: "2022-02-23"
 tags: 
   - "newsletter"
   - "mark-lanegan"
-  - "musica"
+  - "música"
 ---
 
 ![mark_lanegan.jpg](images/f7a232e1-fd4d-40c0-ac5b-e2023baa8062.jpg)

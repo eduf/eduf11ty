@@ -3,7 +3,7 @@ title: "Por que as músicas ficam cada vez mais repetitivas?"
 date: "2021-03-22"
 tags: 
   - "monoestereo"
-  - "musica"
+  - "música"
   - "tecnologia"
 ---
 

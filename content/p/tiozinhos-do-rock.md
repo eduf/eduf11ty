@@ -3,7 +3,7 @@ title: "Tiozinhos do Rock"
 date: "2018-08-29"
 tags: 
   - "podcast"
-  - "musica"
+  - "música"
 ---
 
 <iframe style="width: 100%; height: 180px;" src="https://anchor.fm/monoestereo/embed/episodes/Tiozinhos-do-Rock-e243qi" width="100%" height="180px" frameborder="0" scrolling="no"></iframe>

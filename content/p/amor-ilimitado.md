@@ -2,7 +2,7 @@
 title: "Amor ilimitado"
 date: "2022-04-04"
 tags: 
-  - "musica"
+  - "música"
   - "red-hot-chili-peppers"
 ---
 

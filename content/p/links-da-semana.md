@@ -3,7 +3,7 @@ title: "Links da semana"
 date: "2022-04-22"
 tags: 
   - "links"
-  - "musica"
+  - "música"
   - "politica"
   - "tecnologia"
 ---

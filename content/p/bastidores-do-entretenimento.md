@@ -4,7 +4,7 @@ date: "2021-12-22"
 tags: 
   - "newsletter"
   - "documentarios"
-  - "musica"
+  - "música"
 ---
 
 ![wrecking(1).jpg](images/70385ee9-0868-405f-9e8a-0490c7e992c1.jpg)

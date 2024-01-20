@@ -5,7 +5,7 @@ tags:
   - "newsletter"
   - "elon-musk"
   - "humor"
-  - "musica"
+  - "música"
   - "queen"
   - "solucionismo"
   - "tecnologia"

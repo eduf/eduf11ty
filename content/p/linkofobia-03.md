@@ -3,7 +3,7 @@ title: "Linkofobia #03"
 date: "2021-03-13"
 tags: 
   - "links"
-  - "musica"
+  - "música"
   - "politica"
   - "veganismo"
 ---

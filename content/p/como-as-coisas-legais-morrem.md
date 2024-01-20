@@ -9,7 +9,7 @@ tags:
   - "fanzines"
   - "fugazi"
   - "google"
-  - "musica"
+  - "música"
   - "nostalgia"
   - "pos-crescimento"
   - "straight-edge"

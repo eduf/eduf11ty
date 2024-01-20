@@ -5,7 +5,7 @@ tags:
   - "reviews"
   - "alanis-morissette"
   - "documentarios"
-  - "musica"
+  - "música"
 ---
 
 ![Alanis Morissette](https://eduf.me/wp-content/uploads/2021/12/alanis.webp)

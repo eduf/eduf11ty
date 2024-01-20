@@ -4,7 +4,7 @@ date: "2021-05-09"
 tags: 
   - "monoestereo"
   - "documentarios"
-  - "musica"
+  - "música"
   - "pj-harvey"
   - "sustentabilidade"
 ---

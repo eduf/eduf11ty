@@ -6,7 +6,7 @@ tags:
   - "beatles"
   - "cinema"
   - "documentarios"
-  - "musica"
+  - "música"
 ---
 
 ![get-back.jpg](images/12d2ea45-7638-4f75-b24f-143155411d11.jpg)

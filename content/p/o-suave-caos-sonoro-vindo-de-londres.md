@@ -3,7 +3,7 @@ title: "O suave caos sonoro vindo de Londres"
 date: "2021-07-06"
 tags: 
   - "black-midi"
-  - "musica"
+  - "música"
 ---
 
 black midi (assim mesmo, com letras minúsculas) é uma [banda londrina formada em 2017](https://en.wikipedia.org/wiki/Black_Midi "black midi na Wikipedia"). É um tanto difícil descrever seu som. Noise rock? Jazz fusion pesado? [Baladas de cabaré](https://youtu.be/t-GM18LE1lA "black midi tocando Marlene Dietrich")? Art pós-punk? Frank Zappa da Geração Z? Rick & Morty da música? Cabe tudo.

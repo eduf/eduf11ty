@@ -3,7 +3,7 @@ title: "Linkofobia #04"
 date: "2021-03-20"
 tags: 
   - "links"
-  - "musica"
+  - "música"
   - "tipografia"
   - "veganismo"
 ---

@@ -2,7 +2,7 @@
 title: "Duas novas do Voivod"
 date: "2022-01-05"
 tags: 
-  - "musica"
+  - "música"
   - "voivod"
 ---
 

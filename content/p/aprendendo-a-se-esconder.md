@@ -5,7 +5,7 @@ tags:
   - "newsletter"
   - "criatividade"
   - "larry-lalonde"
-  - "musica"
+  - "música"
   - "primus"
 coverImage: "mud-transformed.jpg"
 ---
