@@ -6,4 +6,32 @@ eleventyNavigation:
 ---
 # Sobre Eduf.me
 
-I am a person that writes stuff.
+<img src="images/eduf_perfil640.webp" alt="Perfil do Eduf" />
+
+[blog_stats]
+
+### Alguns dos meus projetos atuais:
+
+<ul>
+    <li><a href="http://eduf.me/newsletter/" rel="me">Newsletter Texto Sobre Tela</a>.</li>
+    <li><a href="https://eduf.me/monoestereo/"  rel="me">Podcast MonoEstéreo</a>.</li>
+    <li><a href="https://www.youtube.com/c/eduardofernandex">Canal no YouTube</a>.</li>
+</ul>
+
+### Trabalhos
+
+<ul>
+<li><a href="https://eduf.me/trabalho/">Mais recentes</a>, de roteiro. E alguns de design e adestramento de WordPress.</li>
+</ul>
+
+### O que já fiz
+
+- Fui editor do site da revista <em>Superinteressante</em>.
+- Fui editor de mídias eletrônicas na <em>Trip</em> (o que incluía site, mídias sociais, conteúdo mobile e um programa nacional de rádio).
+- Fui consultor de marketing da Telefónica.
+- Produzi conteúdo regularmente para a Editora Abril, iG, America Online, Terra, UOL, Nokia, entre outras marcas.
+- Off-line, fiz design, capas de livros, anúncios e editei revistas para diversas empresas, entre elas Editora Conrad, Nintendo, EGM, PC Magazine e Petrobrás.
+- Escrevo, gravo, publico e divulgo podcasts há mais de 20 anos.
+- Eventualmente, <a href="https://soundcloud.com/eduf" rel="me">componho e gravo músicas</a>.
+
+Então é isso. Fique à vontade. Qualquer coisa, <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#101;&#100;&#117;&#102;&#64;&#101;&#100;&#117;&#102;&#46;&#109;&#101;">me escreva</a>.
