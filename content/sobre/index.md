@@ -6,15 +6,15 @@ eleventyNavigation:
 ---
 # Sobre Eduf.me
 
-<img src="images/eduf_perfil640.webp" alt="Perfil do Eduf" />
+<img src="../blog/images/eduf_perfil640.webp" alt="Perfil do Eduf" />
 
-[blog_stats]
+Olá, eu sou Eduardo Fernandes, roteirista, ghostwriter e jornalista de São Paulo, SP.
 
 ### Alguns dos meus projetos atuais:
 
 <ul>
-    <li><a href="http://eduf.me/newsletter/" rel="me">Newsletter Texto Sobre Tela</a>.</li>
-    <li><a href="https://eduf.me/monoestereo/"  rel="me">Podcast MonoEstéreo</a>.</li>
+    <li><a href="tags/newsletter/" rel="me">Newsletter Texto Sobre Tela</a>.</li>
+    <li><a href="tags/monoestereo/"  rel="me">Podcast MonoEstéreo</a>.</li>
     <li><a href="https://www.youtube.com/c/eduardofernandex">Canal no YouTube</a>.</li>
 </ul>
 
