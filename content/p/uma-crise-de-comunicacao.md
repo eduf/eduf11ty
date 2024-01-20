@@ -3,7 +3,7 @@ title: "Uma crise de comunicação"
 date: "2023-10-10"
 tags: 
   - "newsletter"
-  - "Inteligência Artificial"
+  - "inteligência artificial"
 ---
 
 _Imagem: Midjourney._
