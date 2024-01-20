@@ -2,7 +2,8 @@
 title: "Raspberry Pi para presidente"
 date: "2021-07-02"
 tags: 
-  - "diletante"  - "dharma"
+  - "diletante"
+  - "dharma"
   - "politica"
   - "tecnologia"
 ---

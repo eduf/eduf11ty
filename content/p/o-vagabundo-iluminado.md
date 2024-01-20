@@ -2,7 +2,8 @@
 title: "O Vagabundo Iluminado"
 date: "2021-05-14"
 tags: 
-  - "diletante"  - "budismo"
+  - "diletante"
+  - "budismo"
   - "mente"
   - "patrul-rinpoche"
 ---

@@ -2,7 +2,8 @@
 title: "Quixote, a lei do mais doido"
 date: "2021-11-11"
 tags: 
-  - "diletante"  - "don-quixote"
+  - "diletante"
+  - "don-quixote"
   - "literatura"
   - "tecnologia"
   - "woke"
