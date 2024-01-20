@@ -76,7 +76,7 @@ body {
 p:last-child {
 	margin-bottom: 0;
 }
-p :not(>.message-box) {
+p:not(>.message-box) {
 	line-height: calc(var(--main-font-size)*1.55);
 	text-wrap: pretty;
 	max-width: 55ch;
