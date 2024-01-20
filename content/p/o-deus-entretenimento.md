@@ -5,7 +5,7 @@ tags:
   - "newsletter"
   - "capitalismo"
   - "entretenimento"
-  - "inteligencia-artificial"
+  - "inteligência artificial"
   - "rick-beato"
 coverImage: "drake.jpg"
 ---

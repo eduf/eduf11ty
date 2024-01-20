@@ -5,7 +5,7 @@ tags:
   - "newsletter"
   - "bard"
   - "chatgpt"
-  - "inteligencia-artificial"
+  - "inteligência artificial"
   - "pos-verdade"
 ---
 

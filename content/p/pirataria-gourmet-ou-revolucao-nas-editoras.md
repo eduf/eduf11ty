@@ -4,7 +4,7 @@ date: "2023-01-20"
 tags: 
   - "newsletter"
   - "fanzines"
-  - "inteligencia-artificial"
+  - "inteligência artificial"
   - "livros"
   - "tecnologia"
 coverImage: "jim_ed1.jpg"

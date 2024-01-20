@@ -5,7 +5,7 @@ tags:
   - "monoestereo"
   - "comunicacao"
   - "influenciadores"
-  - "inteligencia-artificial"
+  - "inteligência artificial"
   - "miquela"
   - "tecnologia"
 ---

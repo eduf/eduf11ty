@@ -4,7 +4,7 @@ date: "2023-02-27"
 tags: 
   - "newsletter"
   - "humor"
-  - "inteligencia-artificial"
+  - "inteligência artificial"
 coverImage: "grandma_robot.jpg"
 ---
 

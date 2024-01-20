@@ -5,7 +5,7 @@ tags:
   - "newsletter"
   - "adidas"
   - "historia"
-  - "inteligencia-artificial"
+  - "inteligência artificial"
   - "nostalgia"
   - "tecnologia"
 coverImage: "samba11.jpg"

@@ -3,7 +3,7 @@ title: "LaMDA - A Inteligência Artificial tem consciência?"
 date: "2022-06-15"
 tags: 
   - "newsletter"
-  - "inteligencia-artificial"
+  - "inteligência artificial"
   - "lamda"
   - "tecnologia"
 ---

@@ -3,7 +3,7 @@ title: "Negócios inacabados"
 date: "2023-03-23"
 tags: 
   - "newsletter"
-  - "inteligencia-artificial"
+  - "inteligência artificial"
   - "openai"
 coverImage: "steampunk_bill_gates.jpg"
 ---

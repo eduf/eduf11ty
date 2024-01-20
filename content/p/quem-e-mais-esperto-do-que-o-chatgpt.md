@@ -5,7 +5,7 @@ tags:
   - "newsletter"
   - "chatgpt"
   - "conversa-phatica"
-  - "inteligencia-artificial"
+  - "inteligência artificial"
 coverImage: "chatgpt.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "Um ChatGPT para chamar de meu"
 date: "2022-12-09"
 tags: 
   - "chatgpt"
-  - "inteligencia-artificial"
+  - "inteligência artificial"
 coverImage: "robot.jpg"
 ---
 

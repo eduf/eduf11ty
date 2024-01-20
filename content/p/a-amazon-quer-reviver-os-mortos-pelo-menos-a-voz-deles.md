@@ -5,7 +5,7 @@ tags:
   - "video"
   - "alexa"
   - "amazon"
-  - "inteligencia-artificial"
+  - "inteligência artificial"
   - "tecnologia"
 ---
 

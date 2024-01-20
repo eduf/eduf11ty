@@ -9,7 +9,7 @@ tags:
   - "clifford-geertz"
   - "cultura"
   - "google"
-  - "inteligencia-artificial"
+  - "inteligência artificial"
   - "politica"
   - "tecnologia"
   - "tim-harford"
