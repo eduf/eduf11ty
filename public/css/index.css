@@ -76,7 +76,7 @@ body {
 p:last-child {
 	margin-bottom: 0;
 }
-p:not(>.message-box) {
+p:not(.message-box) {
 	line-height: calc(var(--main-font-size)*1.55);
 	text-wrap: pretty;
 	max-width: 55ch;
@@ -250,13 +250,12 @@ header {
 	list-style: none;
 	padding: 0;
 	margin: 0;
+	font-family: var(--font-family-monospace);
+	font-size: 0.8rem;
+	color: var(--color-gray-50);
 }
 .post-metadata time {
 	margin-right: 1rem;
-}
-.postlist-date {
-	color: var(--color-gray-50);
-	font-family: var(--font-family-monospace);
 }
 
 /* Direct Links / Markdown Headers */
@@ -315,4 +314,8 @@ hr {
 	margin-bottom: 2rem;
 	font-size: 0.9rem;
 	font-family: var(--font-family-monospace);
+}
+.article-wrapper {
+	max-width: 700px;
+	margin: 0 auto 0 auto;
 }
