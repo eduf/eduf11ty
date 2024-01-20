@@ -9,10 +9,3 @@ eleventyNavigation:
 <div class="message-box">
 	<p>Este é o site do jornalista, roteirista e ghostwriter <a href="https://eduf.me/sobre/" rel="me">Eduardo Fernandes.</a></p>
 </div>
-
-{# List every content page in the project #}
-<ul>
-	{%- for entry in collections.all %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-	{%- endfor %}
-</ul>
