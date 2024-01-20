@@ -76,7 +76,7 @@ body {
 p:last-child {
 	margin-bottom: 0;
 }
-p {
+p :not(>.message-box) {
 	line-height: calc(var(--main-font-size)*1.55);
 	text-wrap: pretty;
 	max-width: 55ch;
@@ -254,9 +254,8 @@ header {
 .post-metadata time {
 	margin-right: 1rem;
 }
-.postlist-date, .post-metadata {
+.postlist-date {
 	color: var(--color-gray-50);
-	font-size: 0.85rem;
 	font-family: var(--font-family-monospace);
 }
 
