@@ -5,9 +5,8 @@ tags:
   - "podcast"
   - "trabalho"
   - "b9"
-  - "braincast"
+  - "Braincast"
   - "cooperativismo"
-  - "podcast"
   - "roteiro"
 coverImage: "sistema_ocb_logo.jpg"
 ---
