@@ -12,7 +12,7 @@ layout: layouts/base.njk
 	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
 	{%- endfor %}
 </ul>
-{% if coverImage %}{% image coverImage, "Teste" %}{% endif %}
+{% if coverImage %}{% image coverImage, title %}{% endif %}
 
 <article class="article-wrapper">
 {{ content | safe }}
