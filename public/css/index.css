@@ -79,13 +79,13 @@ p:last-child {
 p {
 	line-height: 1.5;
 	text-wrap: pretty;
-	max-width: 60ch;
+	max-width: 55ch;
 }
 
 li {
 	line-height: 1.5;
 	text-wrap: pretty;
-	max-width: 60ch;
+	max-width: 55ch;
 }
 
 a[href] {
@@ -102,9 +102,9 @@ a[href]:active {
 }
 
 main {
-	padding: 2rem;
+	padding: 2rem 2vh 2rem 2vh;
 	margin: 0 auto 0 auto;
-	max-width: 700px;
+	max-width: 30rem;
 }
 main :first-child {
 	margin-top: 0;
@@ -172,6 +172,7 @@ header {
 
 /* Nav */
 .nav {
+	font-size: 0.9rem;
 	display: flex;
 	padding: 0;
 	margin: 0;
@@ -237,7 +238,6 @@ header {
 	align-items: center;
 	justify-content: center;
 	text-transform: capitalize;
-	font-style: italic;
 }
 .postlist-item > .post-tag {
 	align-self: center;
@@ -245,15 +245,18 @@ header {
 
 /* Tags list */
 .post-metadata {
+	color: var(--color-gray-50);
+	font-size: 0.85rem;
+	font-family: var(--font-family-monospace);
 	display: inline-flex;
 	flex-wrap: wrap;
-	gap: .5em;
+	gap: 1rem;
 	list-style: none;
 	padding: 0;
 	margin: 0;
 }
 .post-metadata time {
-	margin-right: 1em;
+	margin-right: 1rem;
 }
 
 /* Direct Links / Markdown Headers */
@@ -273,7 +276,7 @@ a[href].header-anchor:hover {
 }
 a[href].header-anchor:focus,
 :hover > a[href].header-anchor {
-	color: #aaa;
+	color: var(--color-gray-50);
 }
 
 h1 {

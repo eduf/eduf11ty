@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Eduf.me",
+	title: "eduf.me",
 	url: "https://eduf.me/",
 	language: "pt-BR",
 	description: "Site do jornalista, roteirista e ghostwriter Eduardo Fernandes.",
