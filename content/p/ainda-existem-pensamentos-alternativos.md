@@ -2,7 +2,8 @@
 title: "Ainda existem pensamentos alternativos?"
 date: "2021-04-22"
 tags: 
-  - "diletante"  - "ailton-krenak"
+  - "diletante"
+  - "ailton-krenak"
   - "antropologia"
   - "budismo"
   - "capitalismo"
