@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 eleventyNavigation:
   key: Siga
-  order: 6
+  order: 5
 ---
 # Onde me seguir na web
 Posts ocasionais, interações infrequentes.

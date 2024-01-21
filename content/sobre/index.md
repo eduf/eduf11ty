@@ -2,36 +2,43 @@
 layout: layouts/base.njk
 eleventyNavigation:
   key: Sobre
-  order: 3
+  order: 2
 ---
 # Sobre Eduf.me
 
 {% image "eduf_perfil640.webp", "Perfil do Eduf" %}
 
-Olá, eu sou Eduardo Fernandes, roteirista, ghostwriter e jornalista de São Paulo, SP.
+Olá, eu sou Eduardo Fernandes, roteirista, ghostwriter e jornalista. Eduf.me é um arquivo de tudo o que eu faço na Internet. Funciona como um backup, já que as plataformas e sistemas de publicação on-line tendem a mudar ou morrer com certa frequência.
 
-### Alguns dos meus projetos atuais:
+## Alguns dos meus projetos atuais:
 
 <ul>
-    <li><a href="../tags/newsletter/" rel="me">Newsletter Texto Sobre Tela</a>.</li>
+    <li><a href="https://textosobletela.com" rel="me">Newsletter Texto Sobre Tela</a>.</li>
     <li><a href="../tags/monoestereo/"  rel="me">Podcast MonoEstéreo</a>.</li>
-    <li><a href="https://www.youtube.com/c/eduardofernandex">Canal no YouTube</a>.</li>
+    <li><a href="../tags/b9/" rel="me">Trabalhos mais recentes, como roteirista</a>.</li>
 </ul>
 
-### Trabalhos
+## O que já fiz
 
+Fui editor dos sites das revistas <em>Superinteressante</em>, <em>Trip</em>, consultor de marketing da Telefónica e produzi conteúdo regularmente para a Editora Abril, iG, America Online, Terra, UOL, Nokia, entre outras marcas.
+
+Mais informações no <a href="https://www.linkedin.com/in/eduardofernandes/" rel="me">LinkedIn</a>.
+
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#101;&#100;&#117;&#102;&#64;&#101;&#100;&#117;&#102;&#46;&#109;&#101;">Entre em contato</a>.
+
+## Como apoiar
+
+<h3>Apoios diretos</h3>
 <ul>
-<li><a href="../tags/trabalho/">Mais recentes</a>, de roteiro. E alguns de design e adestramento de WordPress.</li>
+    <li><a href="mailto:pix@eduf.me">pix@eduf.me</a></li>
+    <li><a href="https://buy.stripe.com/aEUaGOgIJa1XgPS28b">Assinatura partir de R$ 10 por mês</a></li>
+ 	  <li><a href="https://nubank.com.br/pagar/1ezff9/Zqnh6gcXu8">Transferência via Nubank</a></li>
 </ul>
 
-### O que já fiz
+<h3>Comissões</h3>
 
-- Fui editor do site da revista <em>Superinteressante</em>.
-- Fui editor de mídias eletrônicas na <em>Trip</em> (o que incluía site, mídias sociais, conteúdo mobile e um programa nacional de rádio).
-- Fui consultor de marketing da Telefónica.
-- Produzi conteúdo regularmente para a Editora Abril, iG, America Online, Terra, UOL, Nokia, entre outras marcas.
-- Off-line, fiz design, capas de livros, anúncios e editei revistas para diversas empresas, entre elas Editora Conrad, Nintendo, EGM, PC Magazine e Petrobrás.
-- Escrevo, gravo, publico e divulgo podcasts há mais de 20 anos.
-- Eventualmente, <a href="https://soundcloud.com/eduf" rel="me">componho e gravo músicas</a>.
+Vai comprar (qualquer coisa) na Amazon? Use meu link patrocinado: <a href="https://eduf.me/amazon">eduf.me/amazon</a>.
 
-Então é isso. Fique à vontade. Qualquer coisa, <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#101;&#100;&#117;&#102;&#64;&#101;&#100;&#117;&#102;&#46;&#109;&#101;">me escreva</a>.
+- Nada mudará pra você (Prime, etc.).
+- Não saberei o que você comprou.
+- Ganharei uma comissão a cada item que você comprar.
