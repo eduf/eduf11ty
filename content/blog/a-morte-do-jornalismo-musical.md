@@ -1,5 +1,5 @@
 ---
-title: "A morte do jornalismo cultural"
+title: "A morte do jornalismo musical"
 date: "2024-01-21"
 tags: 
  - "Pitchfork"
@@ -38,7 +38,7 @@ Então, não é que a crítica musical tenha morrido. O gênero literário “co
 
 Aí é que está a questão.
 
-Ao longo dos últimos 20 anos, o suprimento de comentários culturais (das esquerda_s_ e direita_s_, dos robôs e dos humanos) cresceu tanto que muitos de nós já estamos naquela fase do porre no qual abraçar o vaso sanitário soa como uma excelente ideia.
+Ao longo dos últimos 20 anos, o suprimento de comentários culturais (das esquerdas e direitas, dos robôs e dos humanos) cresceu tanto que muitos de nós já estamos naquela fase do porre no qual abraçar o vaso sanitário soa como uma excelente ideia.
 
 Ou seja: não estamos nostálgicos do auge do Pitchfork. Temos material muito melhor disponível. E em mega abundância. É só saber procurar.
 
