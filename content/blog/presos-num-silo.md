@@ -51,7 +51,7 @@ Silo quase é uma boa reflexão sobre como funciona viver em comunidade. E essa 
 
 Vida em comunidade é uma mistura de pressão dos pares, certa religiosidade, amor e apoio do grupo, saco cheio de ver as mesmas caras e uma alternância entre claustrofobia moderada e conforto. Nos primeiros capítulos, Silo até explora bem esse universo.
 
-![Cena do seriado Silo, da AppleTV.](images/silo02-1.webp)
+{% image "silo02-1.webp", "Cena do seriado Silo, da AppleTV." %}
 
 ### Afinal, qual é o problema de Silo?
 
