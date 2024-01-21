@@ -2,7 +2,7 @@
 title: "Aprender sem aprender"
 date: "2022-12-14"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "billy-corgan"
   - "rick-beato"
   - "smashing-pumpkins"

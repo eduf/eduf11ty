@@ -2,7 +2,7 @@
 title: "O livro novo de Bill Gates"
 date: "2021-02-22"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "bill-gates"
   - "sustentabilidade"
 ---

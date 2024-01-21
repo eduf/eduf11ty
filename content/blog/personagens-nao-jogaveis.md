@@ -2,7 +2,7 @@
 title: "Personagens não jogáveis"
 date: "2022-03-04"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "cinema"
   - "free-guy"
   - "humor"

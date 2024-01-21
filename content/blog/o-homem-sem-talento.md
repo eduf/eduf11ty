@@ -2,7 +2,7 @@
 title: "O Homem Sem Talento"
 date: "2021-04-19"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "confissoes"
   - "mangas"
   - "yoshiharu-tsuge"

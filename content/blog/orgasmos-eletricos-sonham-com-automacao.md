@@ -2,7 +2,7 @@
 title: "Orgasmos elétricos sonham com automação?"
 date: "2021-04-05"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "humor"
   - "politica"
 ---

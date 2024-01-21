@@ -2,7 +2,7 @@
 title: "Brazil (o filme) versus Expresso Futuro"
 date: "2021-03-15"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "economia"
   - "politica"
 ---

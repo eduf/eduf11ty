@@ -2,7 +2,7 @@
 title: "Com a cabeça nos EUA"
 date: "2022-03-20"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "austin"
   - "cultura"
   - "eua"

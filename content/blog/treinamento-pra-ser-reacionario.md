@@ -2,7 +2,7 @@
 title: "Treinamento pra ser reacionário"
 date: "2021-05-30"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "memes"
   - "politica"
 ---

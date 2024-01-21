@@ -2,7 +2,7 @@
 title: "Como a tecnologia digital muda a política"
 date: "2021-11-22"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "politica"
   - "tecnologia"
 ---

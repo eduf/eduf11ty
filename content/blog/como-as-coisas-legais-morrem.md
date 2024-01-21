@@ -2,7 +2,7 @@
 title: "Como as coisas legais morrem"
 date: "2021-04-25"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "ativismo"
   - "bad-brains"
   - "cultura"

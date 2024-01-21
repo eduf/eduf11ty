@@ -2,9 +2,9 @@
 title: "Alguém aí tem saudades da Cultura de Massas?"
 date: "2021-01-25"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "midia"
-  - "monoestereo"
+  - "MonoEstereo"
   - "politica"
   - "tecnologia"
 ---

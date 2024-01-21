@@ -2,7 +2,7 @@
 title: "Onde meu vira lata está?"
 date: "2021-01-22"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "conveniencia"
 ---
 

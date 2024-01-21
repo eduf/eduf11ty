@@ -2,7 +2,7 @@
 title: "Os robôs influenciadores"
 date: "2022-05-16"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "comunicacao"
   - "influenciadores"
   - "inteligência artificial"

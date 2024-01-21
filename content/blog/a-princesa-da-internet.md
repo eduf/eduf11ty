@@ -2,7 +2,7 @@
 title: "A princesa da Internet"
 date: "2022-05-02"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "feminismo"
   - "geracao-z"
   - "newsletters"

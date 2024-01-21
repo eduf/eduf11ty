@@ -2,7 +2,7 @@
 title: "Aspirações pra 2024"
 date: "2024-01-01"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "resolucoes-de-fim-de-ano"
   - "substack"
 coverImage: "duotone.png"

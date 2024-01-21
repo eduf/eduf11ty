@@ -2,7 +2,7 @@
 title: "Escritor perna de pau"
 date: "2022-12-04"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "futebol"
   - "humor"
 coverImage: "jodo_bola.jpg"

@@ -2,7 +2,7 @@
 title: "Pensando fora da caixa"
 date: "2022-09-12"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "unboxing"
 ---
 

@@ -2,7 +2,7 @@
 title: "16 técnicas de manipulação que estão em moda"
 date: "2022-07-25"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "autoconhecimento"
   - "manipulacao"
   - "network-effect"

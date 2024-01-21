@@ -2,7 +2,7 @@
 title: "Nós estamos num filme de John Carpenter"
 date: "2022-10-10"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "humor"
   - "john-carpenter"
   - "politica"

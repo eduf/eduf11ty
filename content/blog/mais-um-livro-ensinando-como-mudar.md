@@ -2,7 +2,7 @@
 title: "Mais um livro ensinando como mudar"
 date: "2022-04-04"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "autoconhecimento"
   - "comportamento"
 ---

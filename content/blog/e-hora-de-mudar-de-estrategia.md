@@ -2,7 +2,7 @@
 title: "É hora de mudar de estratégia"
 date: "2022-10-31"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "politica"
   - "tecnologia"
 coverImage: "cutting_sword.jpg"

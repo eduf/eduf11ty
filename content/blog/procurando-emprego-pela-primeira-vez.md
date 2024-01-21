@@ -2,7 +2,7 @@
 title: "Procurando emprego pela primeira vez"
 date: "2022-08-15"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "humor"
   - "linkedin"
   - "processos-seletivos"

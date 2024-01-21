@@ -2,7 +2,7 @@
 title: "Não entendi. Que bom"
 date: "2021-12-20"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "cinema"
   - "crypto"
   - "politica"

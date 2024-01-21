@@ -2,7 +2,7 @@
 title: "Cansei de reclamar"
 date: "2021-01-22"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "comportamento"
 ---
 

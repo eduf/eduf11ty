@@ -2,7 +2,7 @@
 title: "A mente peculiar de Ian Mackaye"
 date: "2018-02-28"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "podcast"
   - "música"
 ---

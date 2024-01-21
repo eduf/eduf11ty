@@ -2,7 +2,7 @@
 title: "A política nas festas de fim de ano"
 date: "2021-12-13"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "comportamento"
   - "festas"
   - "politica"

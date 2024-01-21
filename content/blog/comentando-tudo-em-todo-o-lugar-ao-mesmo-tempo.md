@@ -2,7 +2,7 @@
 title: "Comentando Tudo em Todo o Lugar ao Mesmo Tempo"
 date: "2022-05-29"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "cinema"
   - "critica-cultural"
   - "fomo"

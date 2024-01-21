@@ -2,7 +2,7 @@
 title: "Múmias da conveniência"
 date: "2022-11-07"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "conveniencia"
   - "mastodon"
   - "tecnologia"

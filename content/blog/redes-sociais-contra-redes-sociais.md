@@ -2,7 +2,7 @@
 title: "Redes sociais contra redes sociais"
 date: "2021-09-27"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "redes-sociais"
 ---
 

@@ -2,7 +2,7 @@
 title: "Então você quer usar armas?"
 date: "2022-09-19"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "cinema"
   - "documentarios"
   - "politica"

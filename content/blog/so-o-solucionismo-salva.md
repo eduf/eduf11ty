@@ -2,7 +2,7 @@
 title: "Só o solucionismo salva"
 date: "2021-11-29"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "politica"
 ---
 

@@ -2,7 +2,7 @@
 title: "Interdependência do Brasil - Parte 02"
 date: "2021-09-06"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "foucault"
   - "politica"
 ---

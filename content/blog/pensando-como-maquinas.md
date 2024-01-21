@@ -2,7 +2,7 @@
 title: "Pensando como máquinas"
 date: "2021-11-08"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "algoritimos"
   - "comunicacao"
   - "politica"

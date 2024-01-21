@@ -2,7 +2,7 @@
 title: "Monopolizando o conhecimento"
 date: "2022-01-24"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "conhecimento"
   - "humor"
   - "redes-sociais"

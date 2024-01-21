@@ -2,7 +2,7 @@
 title: "Obsessões de estimação"
 date: "2022-07-11"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "diy"
   - "etica"
   - "faca-voce-mesmo"

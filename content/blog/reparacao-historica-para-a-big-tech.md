@@ -2,7 +2,7 @@
 title: "Reparação histórica para a Big Tech"
 date: "2022-10-24"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "politica"
   - "redes-sociais"
 ---

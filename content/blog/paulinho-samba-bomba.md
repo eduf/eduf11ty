@@ -2,7 +2,7 @@
 title: "Paulinho Samba Bomba"
 date: "2021-01-22"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "comportamento"
   - "surreal"
 ---

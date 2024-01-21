@@ -2,7 +2,7 @@
 title: "A sabedoria de carregar malas"
 date: "2022-07-04"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "michel-foucault"
   - "mudancas"
   - "peter-brook"

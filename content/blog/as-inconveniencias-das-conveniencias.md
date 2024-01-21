@@ -2,7 +2,7 @@
 title: "As inconveniências das conveniências"
 date: "2022-02-15"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "conveniencia"
   - "dostoievski"
   - "literatura"

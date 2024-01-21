@@ -2,7 +2,7 @@
 title: "Dia da sofrência"
 date: "2022-08-01"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "autoconhecimento"
 ---
 

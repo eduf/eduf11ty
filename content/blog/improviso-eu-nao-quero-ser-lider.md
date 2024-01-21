@@ -2,7 +2,7 @@
 title: "Improviso - Eu não quero ser líder!"
 date: "2021-01-22"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "politica"
 ---
 

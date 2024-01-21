@@ -2,7 +2,7 @@
 title: "Não é fácil derrubar um império"
 date: "2021-10-18"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "conhecimento"
   - "isaac-asimov"
   - "sci-fi"

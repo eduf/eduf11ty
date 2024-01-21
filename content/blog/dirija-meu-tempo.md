@@ -2,7 +2,7 @@
 title: "Dirija meu tempo"
 date: "2022-01-31"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "cinema"
   - "cinema-asiatico"
   - "comportamento"

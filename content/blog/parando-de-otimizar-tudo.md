@@ -2,7 +2,7 @@
 title: "Parando de otimizar tudo"
 date: "2022-06-20"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "a24"
   - "cinema"
   - "marie-kondo"

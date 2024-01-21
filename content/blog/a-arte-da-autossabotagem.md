@@ -2,7 +2,7 @@
 title: "A arte da autossabotagem"
 date: "2021-07-19"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "cidadao-kane"
   - "david-fincher"
   - "mank"

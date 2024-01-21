@@ -2,7 +2,7 @@
 title: "Humor corporativo"
 date: "2022-10-03"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "comportamento"
   - "corporacoes"
   - "humor"

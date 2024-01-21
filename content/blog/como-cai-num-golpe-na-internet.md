@@ -2,7 +2,7 @@
 title: "Como caí num golpe na Internet"
 date: "2023-10-07"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "golpes-on-line"
   - "instagram"
 coverImage: "top.jpg"

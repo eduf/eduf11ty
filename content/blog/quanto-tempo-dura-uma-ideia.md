@@ -2,7 +2,7 @@
 title: "Quanto tempo dura uma ideia?"
 date: "2022-04-25"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
 ---
 
 <iframe src="https://anchor.fm/monoestereo/embed/episodes/Quanto-tempo-dura-uma-ideia-e1hl194" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>

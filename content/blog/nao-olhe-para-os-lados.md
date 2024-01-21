@@ -2,7 +2,7 @@
 title: "Não olhe para os lados"
 date: "2022-01-10"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "cinema"
   - "humor"
   - "idiocracia"

@@ -2,7 +2,7 @@
 title: "A censura que se exerce via desejo"
 date: "2022-03-28"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "censura"
   - "desejo"
   - "politica"

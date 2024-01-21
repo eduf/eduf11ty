@@ -2,7 +2,7 @@
 title: "Clicando escritores com Renato Parada"
 date: "2022-08-07"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "fotografia"
   - "renato-parada"
 coverImage: "parada-1.jpg"

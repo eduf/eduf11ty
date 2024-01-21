@@ -2,7 +2,7 @@
 title: "Barbeando um yak"
 date: "2022-02-21"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "comportamento"
   - "metaforas"
   - "tempo"

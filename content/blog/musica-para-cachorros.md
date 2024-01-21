@@ -2,7 +2,7 @@
 title: "Música para cachorros"
 date: "2021-01-22"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "surreal"
 ---
 

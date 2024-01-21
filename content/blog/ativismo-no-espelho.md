@@ -2,7 +2,7 @@
 title: "Ativismo no Espelho"
 date: "2021-08-09"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "autoconhecimento"
   - "mente"
   - "politica"

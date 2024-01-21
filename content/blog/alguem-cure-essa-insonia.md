@@ -2,7 +2,7 @@
 title: "Alguém cure essa insônia!"
 date: "2022-06-06"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "insonia"
   - "meditacao"
   - "surrealismo"

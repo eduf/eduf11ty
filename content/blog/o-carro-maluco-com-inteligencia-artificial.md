@@ -2,7 +2,7 @@
 title: "O carro maluco com inteligência artificial"
 date: "2023-01-08"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "bmw"
   - "ces-2023"
   - "tecnologia"

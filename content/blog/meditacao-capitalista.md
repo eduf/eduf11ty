@@ -2,7 +2,7 @@
 title: "Meditação capitalista"
 date: "2022-01-17"
 tags: 
-  - "monoestereo"
+  - "MonoEstereo"
   - "aparelhos"
   - "meditacao"
   - "mente"
