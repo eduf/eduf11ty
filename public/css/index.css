@@ -6,17 +6,17 @@
 
 /* Theme colors */
 :root {
-	--color-gray-20: #e0e0e0;
-	--color-gray-50: #C0C0C0;
-	--color-gray-90: #333;
-	--color-03: #918773;
+	--color-gray-20: #7c6f64;
+	--color-gray-50: #3c3836;
+	--color-gray-90: #282828;
+	--color-03: #3c3836;
 
-	--background-color: #fff;
+	--background-color: #fbf1c7;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #082840;
-	--text-color-link-active: #5f2b48;
-	--text-color-link-visited: #17050F;
+	--text-color-link: #076678;
+	--text-color-link-active: #928374;
+	--text-color-link-visited: #458588;
 
 	--syntax-tab-size: 2;
 
