@@ -9,6 +9,7 @@ tags:
 coverImage: "tim-toomey-eiY4KJ62P5Q-unsplash.webp"
 ---
 
+
 _Imagem de [Tim Toomey](https://unsplash.com/@covertnine), via Unsplash._
 
 Parece que o [Pitchfork está com os dias contados](https://www.theverge.com/2024/1/17/24042208/pitchfork-to-be-absorbed-into-gq-layoffs). Durante os anos 2000, o site era um dos principais destinos pra pessoas interessadas nesse estranho gênero literário criado (talvez) nos anos 60, chamado crítica musical.
