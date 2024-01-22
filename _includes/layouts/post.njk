@@ -1,9 +1,6 @@
 ---
 layout: layouts/base.njk
 ---
-{# Only include the syntax highlighter CSS on blog posts
-{%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
-{%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %} #}
 <h1>{{ title }}</h1>
 <ul class="post-metadata">
 	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate("dd/MM/yyyy") }}</time></li>
@@ -12,7 +9,7 @@ layout: layouts/base.njk
 	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
 	{%- endfor %}
 </ul>
-{% if coverImage %}{% image coverImage, title %}{% endif %}
+{% if coverImage %}<div class="image-wrapper">{% image coverImage, title %}</div>{% endif %}
 
 <article class="article-wrapper">
 {{ content | safe }}
