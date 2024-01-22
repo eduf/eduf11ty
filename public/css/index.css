@@ -316,10 +316,13 @@ hr {
 	padding: 0 2vh 0 2vh;
 }
 .article-wrapper {
-	max-width: 60ch;
+	max-width: 58ch;
 	margin: 2rem auto 0 auto;
 }
 .image-wrapper {
 	max-width: 40rem;
 	margin: 0 auto 0 auto;
+}
+.post-header {
+	text-align: center;
 }
