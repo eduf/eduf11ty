@@ -1,0 +1,3 @@
+Sitemap: https://eduf.me/sitemap.xml
+User-agent: *
+Disallow:
