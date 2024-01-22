@@ -7,7 +7,7 @@
 		<meta name="description" content="{{ description or metadata.description }}">
 		<meta name="robots" content="index, follow" />
 
-		<link rel="canonical" href="{{ { page.url } | escape }}" />
+		<link rel="canonical" href="{{  page.url }}" />
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 		<link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
 
@@ -16,10 +16,10 @@
 
 		<style>{% getBundle "css" %}</style>
 
-		<meta property="og:title" content="{{ { title or metadata.title } | escape }}" />
-  		<meta property="og:url" content="{{ { page.url } | escape }}" />
-  		<meta property="og:description" content="{{ { description or renderData.description } | escape }}" />
-  		{% if coverImage %}<meta property="og:image" content="https://eduf.me/blog/images/{{ {% coverImage %} | escape }}" />{% endif %}
+		<meta property="og:title" content="{{ title or metadata.title }}" />
+  		<meta property="og:url" content="{{ page.url }}" />
+  		<meta property="og:description" content="{{ description or renderData.description }}" />
+  		{% if coverImage %}<meta property="og:image" content="https://eduf.me/blog/images/{{ coverImage }}" />{% endif %}
   		<meta property="og:type" content="article" />
 
 
