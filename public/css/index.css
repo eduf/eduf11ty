@@ -253,9 +253,6 @@ header {
 	font-size: 0.8rem;
 	color: var(--color-gray-50);
 }
-.post-metadata time {
-	margin-right: 1rem;
-}
 
 /* Direct Links / Markdown Headers */
 .header-anchor {
