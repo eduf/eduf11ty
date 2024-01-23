@@ -249,8 +249,9 @@ header {
 	line-height: 1.1;
 	list-style: none;
 	padding: 0;
-	font-size: 0.8rem;
+	font-size: 0.85rem;
 	color: var(--color-gray-50);
+	font-family: var(--font-family-monospace);
 }
 
 /* Direct Links / Markdown Headers */
@@ -300,9 +301,10 @@ img {
 	max-width: 100%;
 	height: auto;
 	display: block;
+	border-radius: 0.4rem;
 }
 hr {
-	border: 1px solid var(--color-04);
+	border: 1px solid var(--color-03);
 	margin: 2.2rem 0 2.2rem 0;
 	padding: 0;
 }
@@ -328,10 +330,11 @@ hr {
 }
 .monospace {
 	font-family: var(--font-family-monospace);
+	margin-bottom: 1rem;
 }
 .autor {
 	font-size: 0.9rem;
 	border-radius: 0.4rem;
 	padding: 1rem;
-	background-color: #1b1e1f;
+	background: rgba(0,0,0,0.1);
 }
