@@ -3,16 +3,18 @@ layout: layouts/base.njk
 ---
 <section class="post-header">
 	<h1>{{ title }}</h1>
-	<ul class="post-metadata">
-		<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate("dd/MM/yyyy") }}</time></li>
-	</ul>
+	<time class="monospace" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate("dd/MM/yyyy") }}</time>
 </section>
 
 {% if coverImage %}<div class="image-wrapper">{% image coverImage, title %}</div>{% endif %}
 
 <article class="article-wrapper">
+	<div class="autor">
+		<p>Por <a href="https://eduf.me/sobre/" rel="me">Eduardo Fernandes</a>.</p>
+		<p><a href="https://textosobretela.com" rel="me" nofollow>Siga a newsletter Texto Sobre Tela</a> e receba textos como esse em sua caixa postal.</p>
+	</div>
 	{{ content | safe }}
-	<hr />
+	<hr>
 	<ul class="post-metadata">
 		{%- for tag in tags | filterTagList %}
 		{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
