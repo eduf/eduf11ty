@@ -31,8 +31,10 @@ Por exemplo, segue uma dica de beleza, direto do Kama Sutra (numa tradução dos
 > o fragrante _costus_
 > e a ameixa anã,
 > a beleza cem vezes aumentando.
+> 
 > (...)
-> Óleo de acanto, salsaparrilha, 
+
+> Óleo de acanto, salsaparrilha,
 > serralha, paina 
 > e lótus azul, uma grinalda
 > de suas pétalas,
@@ -80,7 +82,5 @@ Nesse ponto, os lançamentos da CES diferem completamente do Kama Sutra. O texto
 Não sou praticante de tradições védicas. Mas acho incrível como outras sociedades evitavam separar a sabedoria do prazer e da administração do corpo. Você até poderia fazer uma poção e aprender uma técnica, mas, antes, era esperado que você se perguntasse por quê.
 
 Será que isso também acontece na CES e eu é que não enxergo?
-
----
 
 _Imagem criada a partir de foto de Robyn Beck/AFP._
