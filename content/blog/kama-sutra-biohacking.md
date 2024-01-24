@@ -6,7 +6,6 @@ tags: 
   - "biohacking"
   - "CES"
   - "Kama Sutra"
-coverImage: "ceslasvegas.webp"
 ---
 
 Outro dia, me dei ao trabalho de espiar o que aconteceu na [CES 2024](https://www.ces.tech/). É um mega evento, no qual a indústria da tecnologia lança produtos, aponta tendências e faz previsões ambiciosas. Desta vez, os destaques foram as energias renováveis e, especialmente, o chamado [biohacking](https://en.wikipedia.org/wiki/Do-it-yourself_biology).
