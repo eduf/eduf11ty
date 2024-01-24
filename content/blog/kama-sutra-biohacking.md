@@ -6,7 +6,6 @@ tags: 
     - "biohacking"
     - "CES"
     - "Kama Sutra"
-description: "O que o evento de tecnologia CES tem a ver com o famoso texto indiano?"
 coverImage: "ces_las_vegas.webp"
 ---
 
