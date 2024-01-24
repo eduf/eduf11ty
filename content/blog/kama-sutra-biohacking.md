@@ -2,10 +2,10 @@
 title: "Kama Sutra Biohacking"
 date: "2024-01-23"
 tags: 
-    - "tecnologia"
-    - "biohacking"
-    - "CES"
-    - "Kama Sutra"
+  - "tecnologia"
+  - "biohacking"
+  - "CES"
+  - "Kama Sutra"
 coverImage: "ces_las_vegas.webp"
 ---
 
