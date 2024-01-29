@@ -24,12 +24,13 @@ No fundo, parece que certa mentalidade no Vale do Silício deriva dessa visão d
 
 Por um lado, alguns discursos em torno da tecnologia prometem expandir as capacidades humanas: colonizar Marte, processar dados em velocidades incríveis, aumentar a longevidade, etc.
 
-Por outro, tenta eliminar a necessidade de decidir, de escolher, de se concentrar, de improvisar, de aprender com os perrengues. Também vai pendurando aparelhos em nosso corpo e no cotidiano, nos tornando dependentes dos ritmos digitais.
+Por outro, tentam eliminar a necessidade de decidir, de escolher, de se concentrar, de improvisar, de aprender com os perrengues. Também vão pendurando aparelhos em nosso corpo e no cotidiano, nos tornando dependentes dos ritmos digitais e da plasticidade de plástico.
 
 É uma mentalidade ambígua: vamos correr cada vez mais pra fazer cada vez menos. Vamos nos desumanizar pra nos tornar super _sapiens_.
 
-Mas, e se um dia chegássemos mesmo ao sonho de eliminar todas as inconveniências do cotidiano? No que nos tornaríamos? O que significaria ser humano? A total indulgência no entretenimento? O consumo incessante? Um corpo apenas pra aplicar remédios e estímulos? Um coletivo de seres extremamente frágeis pra qualquer problema?
+Mas, e se um dia chegássemos mesmo ao sonho de eliminar todas as inconveniências do cotidiano? O que nos tornaríamos? O que significaria ser humano? A total indulgência no entretenimento? O consumo incessante? Um corpo apenas pra aplicar remédios e estímulos? Um coletivo de seres extremamente frágeis pra qualquer problema?
 
-Imagine uma cena gravada por um drone entrando numa das cidades icônicas dessa civilização. O que ele mostraria? Um líder espiritual ou militar, com suas pompas e símbolos de honra e atividade? Não, uma gigantesca estátua de alguém deitado numa rede e dizendo: ah, que preguiça.
+Imagine uma cena gravada por um drone entrando numa das cidades icônicas dessa civilização. O que ele mostraria? Um líder espiritual ou militar, com suas pompas e símbolos de honra e estresse? Não, uma gigantesca estátua de alguém deitado numa rede e dizendo: ai, que preguiça.
 
-PS - É claro que o personagem Macunaíma é muito mais que uma representação da preguiça. Pra se aprofundar, vale ler [o clássico](https://www.amazon.com.br/Macuna%C3%ADma-Her%C3%B3i-sem-Nenhum-Car%C3%A1ter/dp/6550970040?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3LB1518LM7OQI&keywords=macunaima&qid=1706463963&sprefix=macuna%2Caps%2C698&sr=8-2&linkCode=ll1&tag=eduf-20&linkId=0dfc396c56d5f8e1ed0ece14c7c92ebc&language=pt_BR&ref_=as_li_ss_tl), de Mário de Andrade.
+
+PS — É claro que o personagem Macunaíma é muito mais que uma representação da preguiça. Pra se aprofundar, vale ler [o clássico](https://www.amazon.com.br/Macuna%C3%ADma-Her%C3%B3i-sem-Nenhum-Car%C3%A1ter/dp/6550970040?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3LB1518LM7OQI&keywords=macunaima&qid=1706463963&sprefix=macuna%2Caps%2C698&sr=8-2&linkCode=ll1&tag=eduf-20&linkId=0dfc396c56d5f8e1ed0ece14c7c92ebc&language=pt_BR&ref_=as_li_ss_tl), de Mário de Andrade.
