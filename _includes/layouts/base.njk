@@ -30,7 +30,7 @@
 		<meta property="og:title" content="{{ title or metadata.title }}" />
   		<meta property="og:url" content="https://eduf.me{{ page.url }}" />
   		{% if description %}<meta property="og:description" content="{{ description or metadata.description }}" />{% endif %}
-  		{% if coverImage %}<meta property="og:image" content="https://eduf.me/img/{{ coverImage }}" />{% endif %}
+  		{% if coverImage %}<meta property="og:image" content="{{ image.data.url }}" />{% endif %}
 		<meta property="article:published_time" content="{{ page.date | htmlDateString }}" />
 
 	</head>
