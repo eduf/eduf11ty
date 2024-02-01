@@ -1,6 +1,6 @@
 ---
 title: "Monocultura intelectual"
-date: "2024-02-31"
+date: "2024-01-31"
 tags: 
   - "monocultura"
   - "Rodrigo Ghedin"
