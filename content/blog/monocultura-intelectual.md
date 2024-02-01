@@ -9,7 +9,6 @@ tags:
   - "comportamento"
   - "links"
 coverImage: "campo.webp"
-description: "O que acontece quando aplicamos a lógica da monocultura, que veio do campo, às atividades culturais?"
 ---
 
 Li, no [Manual do Usuário](https://manualdousuario.net/orbita-post/sugestoes-de-atividades-livres-de-telas/), uma coisa que me deixou intrigado. O editor, Rodrigo Ghedin, pediu que os leitores do fórum do site sugerissem atividades livres de telas. Fiquei me perguntando se já estamos tão absolutamente dependentes de telas a ponto de precisarmos de dicas específicas do que fazer longe delas.
