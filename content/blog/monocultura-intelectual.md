@@ -3,8 +3,6 @@ title: "Monocultura intelectual"
 date: "2024-01-31"
 tags: 
   - "monocultura"
-  - "Rodrigo Ghedin"
-  - "douglas rushkoff"
   - "underground"
   - "comportamento"
   - "links"
