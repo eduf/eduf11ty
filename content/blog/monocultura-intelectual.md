@@ -4,7 +4,7 @@ date: "2024-01-31"
 tags: 
   - "monocultura"
   - "Rodrigo Ghedin"
-  - "Douglas Rushkoff"
+  - "douglas rushkoff"
   - "underground"
   - "comportamento"
   - "links"
