@@ -8,7 +8,7 @@ tags:
   - "tecnologia"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/E-se-o-Elon-Musk-comprasse-o-Twitter-e1hb1g0" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/E-se-o-Elon-Musk-comprasse-o-Twitter-e1hb1g0" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcrição do episódio
 

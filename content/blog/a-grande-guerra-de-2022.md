@@ -8,7 +8,7 @@ tags:
   - "redes-sociais"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/A-grande-guerra-de-2022-e19kaoo" height="180px" width="100%" frameborder="0" scrolling="no" style="width:100%;height:180px"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/A-grande-guerra-de-2022-e19kaoo" height="180px" width="100%" frameborder="0" scrolling="no" style="width:100%;height:180px"></iframe>
 
 ## Transcrição
 

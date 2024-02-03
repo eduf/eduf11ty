@@ -8,7 +8,7 @@ tags:
   - "redes-sociais"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Monoplio-do-conhecimento-e1ddclj" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/Monoplio-do-conhecimento-e1ddclj" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Não é muito fácil adquirir conhecimento hoje em dia. Quer dizer: provavelmente, o acesso a textos nunca esteve tão disseminado. Há técnicas didáticas, cursos e professores para praticamente tudo. E esse é exatamente esse o problema.
 

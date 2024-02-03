@@ -8,7 +8,7 @@ tags:
 
 ![The Scream, de Edvard Munch](images/art-suffering1.jpg)
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Dia-da-sofrncia-e1lvake" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/Dia-da-sofrncia-e1lvake" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Hoje é [Chokor Duchen](https://www.rigpawiki.org/index.php?title=Ch%C3%B6khor_D%C3%BCchen). É uma data comemorativa pros budistas. É o aniversário do dia em que o Buda histórico deu seu primeiro ensinamento, há mais de 3 mil anos. E, como se sabe, ele começou falando sobre sofrimento. Que, coincidentemente, era o assunto de hoje mesmo.
 

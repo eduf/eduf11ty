@@ -8,7 +8,7 @@ tags:
   - "series"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/A-nova-crtica-social-coreana-e18kul7" height="180px" width="100%" frameborder="0" scrolling="no" style="width:100%;height:180px"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/A-nova-crtica-social-coreana-e18kul7" height="180px" width="100%" frameborder="0" scrolling="no" style="width:100%;height:180px"></iframe>
 
 ## Transcrição
 

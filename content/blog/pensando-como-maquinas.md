@@ -9,7 +9,7 @@ tags:
   - "tecnologia"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Pensando-como-mquinas-e19uuso" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/Pensando-como-mquinas-e19uuso" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Transcrição do episódio
 

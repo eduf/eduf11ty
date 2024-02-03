@@ -10,7 +10,7 @@ tags:
   - "tecnologia"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Os-robs-influenciadores-e1iik8n" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/Os-robs-influenciadores-e1iik8n" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 No começo, eram os idosos da comunidade. Os líderes religiosos. Os especialistas. Os jornalistas. As celebridades. Os influencers. E agora, os influenciadores movidos à Inteligência Artificial. Como, por exemplo, [Miquela](https://www.instagram.com/lilmiquela/).
 

@@ -8,7 +8,7 @@ tags:
   - "tecnologia"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Programe-ou-Seja-Programado-e1it0fp" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/Programe-ou-Seja-Programado-e1it0fp" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Douglas Rushkoff é um dos meus provocadores preferidos. Ele tem um podcast semanal chamado [Team Human](https://www.teamhuman.fm/), no qual, de modo geral, entrevista pesquisadores e artistas. Já passaram por lá desde Naomy Klein até o escritor de quadrinhos Grant Morrison.
 

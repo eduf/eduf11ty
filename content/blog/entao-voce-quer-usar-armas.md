@@ -10,4 +10,4 @@ tags:
 coverImage: "act_of_killing1.jpg"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Ento-voc-quer-usar-armas-e1nk4k8" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/Ento-voc-quer-usar-armas-e1nk4k8" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>

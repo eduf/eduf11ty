@@ -8,4 +8,4 @@ tags:
 coverImage: "parada-1.jpg"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Clicando-escritores-com-Renato-Parada-e1m7adj" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/Clicando-escritores-com-Renato-Parada-e1m7adj" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>

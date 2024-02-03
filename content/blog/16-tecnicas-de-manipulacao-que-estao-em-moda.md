@@ -13,7 +13,7 @@ tags:
 
 _Imagem de [Sagar Dani](https://unsplash.com/@sagardani?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) para o [Unsplash](https://unsplash.com/s/photos/puppets?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/16-tcnicas-de-manipulao-que-esto-em-moda-e1lm54c" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/16-tcnicas-de-manipulao-que-esto-em-moda-e1lm54c" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcrição do episódio
 

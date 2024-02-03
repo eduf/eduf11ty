@@ -7,4 +7,4 @@ tags:
   - "tecnologia"
 ---
 
-<iframe style="width: 100%; height: 180px;" src="https://anchor.fm/MonoEstéreo/embed/episodes/Por-que-as-msicas-ficam-cada-vez-mais-repetitivas-et7n9a" width="100%" height="180px" frameborder="0" scrolling="no"></iframe>
+<iframe style="width: 100%; height: 180px;" src="https://anchor.fm/monoestereo/embed/episodes/Por-que-as-msicas-ficam-cada-vez-mais-repetitivas-et7n9a" width="100%" height="180px" frameborder="0" scrolling="no"></iframe>

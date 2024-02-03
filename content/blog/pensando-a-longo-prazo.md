@@ -6,7 +6,7 @@ tags:
   - "politica"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Pensando-a-longo-prazo-e1aafi9" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/Pensando-a-longo-prazo-e1aafi9" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcrição do episódio
 

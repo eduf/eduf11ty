@@ -9,7 +9,7 @@ tags:
   - "tecnologia"
 ---
 
-<iframe style="width: 100%; height: 180px;" src="https://anchor.fm/MonoEstéreo/embed/episodes/Algum-a-tem-saudades-da-Cultura-de-Massas-epepgq" width="100%" height="180px" frameborder="0" scrolling="no"></iframe>
+<iframe style="width: 100%; height: 180px;" src="https://anchor.fm/monoestereo/embed/episodes/Algum-a-tem-saudades-da-Cultura-de-Massas-epepgq" width="100%" height="180px" frameborder="0" scrolling="no"></iframe>
 
 A trilha sonora de hoje é o disco [The Unidentifiable, do Matthew Ship Trio.](https://matthewshipp.bandcamp.com/album/the-unidentifiable)
 

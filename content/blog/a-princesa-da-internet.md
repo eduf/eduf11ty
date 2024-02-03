@@ -10,7 +10,7 @@ tags:
   - "rayne-fisher-quann"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/A-princesa-da-Internet-e1ht4gr" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/A-princesa-da-Internet-e1ht4gr" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Rayne Fisher-Quann é uma ativista canadense de 21 anos. Conhecida como “a princesa da Internet”, ela começou a aparecer na mídia em 2018. Foi quando liderou uma manifestação estudantil em Toronto, contra políticos locais, que queriam tirar a educação sexual do currículo das escolas.
 

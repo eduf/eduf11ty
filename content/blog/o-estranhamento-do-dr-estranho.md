@@ -8,7 +8,7 @@ tags:
   - "marvel"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/O-estranhamento-do-Dr--Estranho-e1i80g4" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/O-estranhamento-do-Dr--Estranho-e1i80g4" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Nessa semana, eu fui convidado a assistir ao filme _Dr. Estranho no Multiverso da Loucura_. No cinema. E em 3D.
 

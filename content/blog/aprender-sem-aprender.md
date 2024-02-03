@@ -13,7 +13,7 @@ coverImage: "indice.jpg"
 
 _Billy Corgan num filme do Tim Burton, segundo o MidJourney._
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Aprender-sem-aprender-e1s8b0r" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/Aprender-sem-aprender-e1s8b0r" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Outro dia, me perguntava: em qual rede social sou realmente viciado? Twitter? Nem tenho mais conta. Mastodon? Raramente visito. Instagram? Fico entediado em alguns segundos. Substack? Nah. Inclusive, é triste, mas já desenvolvi certa fadiga de newsletters.
 

@@ -7,7 +7,7 @@ tags:
   - "documentarios"
 ---
 
-<iframe style="width: 100%; height: 180px;" src="https://anchor.fm/MonoEstéreo/embed/episodes/Novo-podcast-A-Hora-do-Diletante-er4f23" width="100%" height="180px" frameborder="0" scrolling="no"></iframe>
+<iframe style="width: 100%; height: 180px;" src="https://anchor.fm/monoestereo/embed/episodes/Novo-podcast-A-Hora-do-Diletante-er4f23" width="100%" height="180px" frameborder="0" scrolling="no"></iframe>
 
 - [Land of the Giants - sobre o Google](https://podcasts.voxmedia.com/show/land-of-the-giants)
 - [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)

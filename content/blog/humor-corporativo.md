@@ -9,4 +9,4 @@ tags:
   - "tiktok"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Humor-corporativo-e1onl57" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/Humor-corporativo-e1onl57" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>

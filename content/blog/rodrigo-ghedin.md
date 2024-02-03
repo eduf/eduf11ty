@@ -7,7 +7,7 @@ tags:
   - "tecnologia"
 ---
 
-<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Outros-jeitos-de-pensar-sobre-tecnologia--com-Rodrigo-Ghedin-e1lh02v" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/monoestereo/embed/episodes/Outros-jeitos-de-pensar-sobre-tecnologia--com-Rodrigo-Ghedin-e1lh02v" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Citado no episódio
 
