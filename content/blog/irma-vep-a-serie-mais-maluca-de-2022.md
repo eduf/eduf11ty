@@ -9,7 +9,7 @@ tags:
 coverImage: "irma_vep1.jpg"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/Irma-Vep-a-srie-mais-maluca-de-2022-e1lbii7" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Irma-Vep-a-srie-mais-maluca-de-2022-e1lbii7" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Você está na França. É bonita. Não precisa se preocupar com dinheiro. Faz sucesso profissional. E até encontrou um trabalho com algum significado. Tudo parece ter sido minuciosamente estruturado para deixá-la feliz. No entanto, não só você, como todo mundo à sua volta parece angustiado, ansioso e sem chão.
 

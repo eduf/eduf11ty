@@ -30,7 +30,7 @@ O tédio só é assustador por conta do vício da ansiedade. Mas, quando desacel
 
 * * *
 
-### [MonoEstéreo](https://eduf.me/tag/monoestereo/)
+### [MonoEstéreo](https://eduf.me/tag/MonoEstéreo/)
 
 ## [Cada época tem a distorção que merece](https://eduf.me/cada-epoca-tem-a-distorcao-que-merece/)
 

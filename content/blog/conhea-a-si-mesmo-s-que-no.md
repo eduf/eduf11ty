@@ -57,7 +57,7 @@ Será que um dia também poderemos dizer que “medir-se é perder as medidas”
 
 ## Eu amo meu algoritmo
 
-Nesta semana, o [Monólogo Estéreo](https://anchor.fm/monoestereo) dá uma de Black Mirror e investiga uma sociedade totalmente [controlada por (benévolos) algoritmos](https://anchor.fm/monoestereo/episodes/A-paz-dos-computadores-ejigmp). Depois que terminei o episódio, fiquei com dor na consciência. Ele está muito sorumbático, taciturno e melancólico (só pra enfatizar). Acho que preciso reler o [True Perception](https://books.google.com.br/books/about/True_Perception.html?id=S8BszVI638AC&redir_esc=y), do Chogyam Trungpa Rinpoche.
+Nesta semana, o [Monólogo Estéreo](https://anchor.fm/MonoEstéreo) dá uma de Black Mirror e investiga uma sociedade totalmente [controlada por (benévolos) algoritmos](https://anchor.fm/MonoEstéreo/episodes/A-paz-dos-computadores-ejigmp). Depois que terminei o episódio, fiquei com dor na consciência. Ele está muito sorumbático, taciturno e melancólico (só pra enfatizar). Acho que preciso reler o [True Perception](https://books.google.com.br/books/about/True_Perception.html?id=S8BszVI638AC&redir_esc=y), do Chogyam Trungpa Rinpoche.
 
 * * *
 
@@ -77,7 +77,7 @@ Abraço‚ Eduf
 
 ## Mais Eduf
 
-- 🎤 [Podcast Monólogo Estéreo](https://anchor.fm/monoestereo)
+- 🎤 [Podcast Monólogo Estéreo](https://anchor.fm/MonoEstéreo)
     
 - 👽 [Edições anteriores da Newsletter](https://eduf.substack.com/)
     

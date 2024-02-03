@@ -52,7 +52,7 @@ Por via das dúvidas‚ fique longe da minha cabeça‚ Elon.
 
 ## Cansei de reclamar
 
-Nessa edição do [Monólogo Estéreo](https://anchor.fm/monoestereo)‚ em vez de uma história‚ falo sobre como podemos transformar o discurso crítico em conversa fiada. Pior: usar o [doomscrolling](https://www.wired.com/story/stop-doomscrolling/) pra ficar depressivo e mais alienado. [Ouça lá](https://anchor.fm/monoestereo/episodes/Cansei-de-reclamar-eisjbh).
+Nessa edição do [Monólogo Estéreo](https://anchor.fm/MonoEstéreo)‚ em vez de uma história‚ falo sobre como podemos transformar o discurso crítico em conversa fiada. Pior: usar o [doomscrolling](https://www.wired.com/story/stop-doomscrolling/) pra ficar depressivo e mais alienado. [Ouça lá](https://anchor.fm/MonoEstéreo/episodes/Cansei-de-reclamar-eisjbh).
 
 * * *
 
@@ -94,7 +94,7 @@ Abraço‚ Eduf
 
 ## Mais Eduf
 
-- 🎤 [Podcast Monólogo Estéreo](https://anchor.fm/monoestereo)
+- 🎤 [Podcast Monólogo Estéreo](https://anchor.fm/MonoEstéreo)
     
 - 👽 [Edições anteriores da Newsletter](https://eduf.substack.com/)
     

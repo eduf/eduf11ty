@@ -19,6 +19,6 @@ Vale ouvir também: [Vox explica como Round 6 ganhou a Netflix](https://podcasts
 - [Apoie o podcast](https://eduf.me/apoie/)
 - [Dê sua opinião, comente, mande mensagem de voz](https://eduf.me/contato/)
 - [Lista no Telegram](https://t.me/edufme)
-- [Podcast MonoEstéreo](https://eduf.me/monoestereo/)
+- [Podcast MonoEstéreo](https://eduf.me/MonoEstéreo/)
 
 Fazendo suas compras regulares da Amazon via [esse link afiliado](https://www.amazon.com.br/?tag=eduf-20), você ajuda o podcast (sem perder suas promoções, dados, Prime. E sem que os diletantes saibam o que você compra).

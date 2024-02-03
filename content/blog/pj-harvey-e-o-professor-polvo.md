@@ -9,11 +9,11 @@ tags:
   - "sustentabilidade"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/PJ-Harvey-e-o-Professor-Polvo-e10i4ft" height="180px" width="100%" frameborder="0" scrolling="no" style="width:100%;height:180px"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/PJ-Harvey-e-o-Professor-Polvo-e10i4ft" height="180px" width="100%" frameborder="0" scrolling="no" style="width:100%;height:180px"></iframe>
 
 - [PJ Harvey - A Dog Called Money](https://www.imdb.com/title/tt8299778/)
 - [Professor Polvo](https://www.netflix.com/br/title/81045007/)
-- [Episódios anteriores](https://eduf.me/monoestereo/)
+- [Episódios anteriores](https://eduf.me/MonoEstéreo/)
 - [Apoie o podcast](https://eduf.me/apoie/)
 - [Dê sua opinião, comente, mande mensagem de voz](https://eduf.me/contato/)
 - [Lista no Telegram](https://t.me/edufme)

@@ -12,7 +12,7 @@ tags:
   - "steve-albini"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/Obsesses-de-estimao-e1l3aur" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Obsesses-de-estimao-e1l3aur" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Eu aposto que você deve ter um conjunto bem claro de obsessões que definem sua vida. Não estou falando de coisas obscuras e inconscientes, como traumas de infância. Estou falando de coisas que você deve ter aprendido na adolescência, livros que você leu e cenas culturais de que participou.
 

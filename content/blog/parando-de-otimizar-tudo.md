@@ -9,7 +9,7 @@ tags:
   - "produtividade"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/Parando-de-otimizar-tudo-e1k6sag" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Parando-de-otimizar-tudo-e1k6sag" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 O que é essencial para mim? O que realmente **acrescenta** na minha vida? Quais são as coisas inúteis que acumulei ao longo dos anos? Onde é que eu perco tempo? Onde gasto dinheiro à toa?
 

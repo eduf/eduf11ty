@@ -5,6 +5,6 @@ tags:
   - "MonoEstereo"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/Eu-gosto-do-que-eu-no-gosto-el77nb" height="180px" width="100%" frameborder="0" scrolling="no" style="width:100%; height:180px;"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Eu-gosto-do-que-eu-no-gosto-el77nb" height="180px" width="100%" frameborder="0" scrolling="no" style="width:100%; height:180px;"></iframe>
 
 Os podcasts viraram mainstream. Assim, algumas corporações querem prever aquilo que ouvimos. Mas será que isso é uma tarefa simples?

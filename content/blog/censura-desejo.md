@@ -8,7 +8,7 @@ tags:
   - "politica"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/A-censura-que-se-exerce-via-desejo-e1gcgi3" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/A-censura-que-se-exerce-via-desejo-e1gcgi3" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcrição
 

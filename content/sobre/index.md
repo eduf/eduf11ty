@@ -14,7 +14,7 @@ Olá, eu sou Eduardo Fernandes, roteirista, ghostwriter e jornalista. Eduf.me é
 
 <ul>
     <li><a href="https://textosobletela.com" rel="me">Newsletter Texto Sobre Tela</a>.</li>
-    <li><a href="../tags/monoestereo/"  rel="me">Podcast MonoEstéreo</a>.</li>
+    <li><a href="../tags/MonoEstéreo/"  rel="me">Podcast MonoEstéreo</a>.</li>
     <li><a href="../tags/b9/" rel="me">Trabalhos mais recentes, como roteirista</a>.</li>
 </ul>
 

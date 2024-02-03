@@ -47,7 +47,7 @@ Hojé é dia de parar com a ruminação interna, com a discursividade, com as le
 
 ## Podcast: Eu gosto do que não gosto
 
-[O Spotify quer virar o Netflix dos podcasts](https://www.fastcompany.com/90559152/spotify-is-leaning-on-influencers-to-win-the-podcasting-wars). Nesse episódio do [Monólogo Estéreo](https://anchor.fm/monoestereo), comento os tipo de tecnologias que a empresa já está aplicando pra expandir seus negócios na área dos podcasts. Eu me pergunto: será que é tão fácil prever o que as pessoas gostam? Por que nós consumimos **regularmente** certas coisas de que não, exatamente, gostamos? [Ouça lá](https://anchor.fm/monoestereo/episodes/Eu-gosto-do-que-eu-no-gosto-el77nb).
+[O Spotify quer virar o Netflix dos podcasts](https://www.fastcompany.com/90559152/spotify-is-leaning-on-influencers-to-win-the-podcasting-wars). Nesse episódio do [Monólogo Estéreo](https://anchor.fm/MonoEstéreo), comento os tipo de tecnologias que a empresa já está aplicando pra expandir seus negócios na área dos podcasts. Eu me pergunto: será que é tão fácil prever o que as pessoas gostam? Por que nós consumimos **regularmente** certas coisas de que não, exatamente, gostamos? [Ouça lá](https://anchor.fm/MonoEstéreo/episodes/Eu-gosto-do-que-eu-no-gosto-el77nb).
 
 * * *
 
@@ -69,7 +69,7 @@ Eduf
 
 ## **Mais Eduf**
 
-- [Podcast Monólogo Estéreo](https://anchor.fm/monoestereo)
+- [Podcast Monólogo Estéreo](https://anchor.fm/MonoEstéreo)
     
 - [Edições anteriores da Newsletter](https://eduf.substack.com/)
     

@@ -80,7 +80,7 @@ Sobre o YouTube, em breve vou mostrar algo mais prático. Já vai.
 
 ## Vida depois dos números
 
-Acho que cometi meu primeiro episódio de ação no [Monólogo Estéreo](https://anchor.fm/monoestereo). Chama-se [Tipo o Tron. Só que no Excel](https://eduf.me/tipo-o-tron-so-que-no-excel/). Acho que o título é meio autoexplicativo. Quer dizer… Será? E eu nem sabia dessa [escorregada de Excel que aconteceu na Inglaterra](https://anchor.fm/monoestereo). Afe.
+Acho que cometi meu primeiro episódio de ação no [Monólogo Estéreo](https://anchor.fm/MonoEstéreo). Chama-se [Tipo o Tron. Só que no Excel](https://eduf.me/tipo-o-tron-so-que-no-excel/). Acho que o título é meio autoexplicativo. Quer dizer… Será? E eu nem sabia dessa [escorregada de Excel que aconteceu na Inglaterra](https://anchor.fm/MonoEstéreo). Afe.
 
 * * *
 
@@ -110,7 +110,7 @@ Eduf
 
 ## **Mais Eduf**
 
-- [Podcast Monólogo Estéreo](https://anchor.fm/monoestereo)
+- [Podcast Monólogo Estéreo](https://anchor.fm/MonoEstéreo)
     
 - [Edições anteriores da Newsletter](https://eduf.substack.com/)
     

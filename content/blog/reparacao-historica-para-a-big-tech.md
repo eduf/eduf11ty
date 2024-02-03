@@ -7,7 +7,7 @@ tags:
   - "redes-sociais"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/Reparao-histrica-para-a-Big-Tech-e1pmh73" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Reparao-histrica-para-a-Big-Tech-e1pmh73" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcrição do episódio
 

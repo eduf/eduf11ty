@@ -5,6 +5,6 @@ tags:
   - "MonoEstereo"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/A-paz-dos-computadores-ejigmp" height="180px" width="100%" frameborder="0" scrolling="no" style="width:100%;height:180px"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/A-paz-dos-computadores-ejigmp" height="180px" width="100%" frameborder="0" scrolling="no" style="width:100%;height:180px"></iframe>
 
 Quando finalmente paramos de temer as máquinas e delegamos o gerenciamento das nossas vidas pra elas.

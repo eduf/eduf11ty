@@ -8,7 +8,7 @@ tags:
   - "tecnologia"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/O-comrcio-da-intimidade-e1jsvsc" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/O-comrcio-da-intimidade-e1jsvsc" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Em maio, o New York Times publicou [uma interessante reportagem sobre os bastidores do OnlyFans](https://www.nytimes.com/2022/05/16/magazine/e-pimps-onlyfans.html). Como você deve saber, o site é um dos maiores expoentes do **comércio digital de intimidade**.
 

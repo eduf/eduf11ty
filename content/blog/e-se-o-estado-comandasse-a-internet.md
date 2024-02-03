@@ -25,6 +25,6 @@ tags:
 - [Apoie o podcast](https://eduf.me/apoie/)
 - [Dê sua opinião, comente, mande mensagem de voz](https://eduf.me/contato/)
 - [Lista no Telegram](https://t.me/edufme)
-- [Podcast MonoEstéreo](https://eduf.me/monoestereo/)
+- [Podcast MonoEstéreo](https://eduf.me/MonoEstéreo/)
 
 Fazendo suas compras regulares da Amazon via [esse link afiliado](https://www.amazon.com.br?&linkCode=ll2&tag=eduf-20&linkId=89f6c0120179c4d4d6f906d2100734f7&language=pt_BR&ref_=as_li_ss_tl), você ajuda o podcast (sem perder suas promoções, dados, Prime. E sem que os diletantes saibam o que você compra).

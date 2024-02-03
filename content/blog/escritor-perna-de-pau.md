@@ -10,7 +10,7 @@ coverImage: "jodo_bola.jpg"
 
 _Todas as imagens desta edição foram feitas pelo MidJourney, tecnologia de Inteligência Artificial._
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/Escritor-perna-de-pau-e1rltr4" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Escritor-perna-de-pau-e1rltr4" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Futebol é uma das mais eficientes tecnologias de mobilização popular. Mas, por algum motivo, não funciona comigo. Tentei reinstalar o aplicativo algumas vezes ao longo da vida e nada. Sempre _crasha_. (Já voltarei ao assunto.)
 

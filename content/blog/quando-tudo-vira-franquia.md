@@ -38,7 +38,7 @@ No YouTube, é possível encontrar canais que fazem verdadeiras **viagens no te
 
 Agora, deixe-me evocar um encosto capitalista e psicografar o seguinte.
 
-[Em 2018, eu já usei](https://anchor.fm/monoestereo/episodes/Tiozinhos-do-Rock-e243qi) o Metallica como exemplo para criar um plano de ação corporativo para bandas longevas. Uma vez que elas já se tornaram empresas, por que não se assumirem como franquias?
+[Em 2018, eu já usei](https://anchor.fm/MonoEstéreo/episodes/Tiozinhos-do-Rock-e243qi) o Metallica como exemplo para criar um plano de ação corporativo para bandas longevas. Uma vez que elas já se tornaram empresas, por que não se assumirem como franquias?
 
 Quer dizer, os fundadores (Mr. Ulrich e Mr. Hetfield) poderiam escolher músicos treinados para desenvolver perfeitamente os clichês de cada época da banda.
 

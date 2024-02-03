@@ -9,7 +9,7 @@ tags:
   - "viagens"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/Barbeando-um-yak-e1en4hm" height="100%" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Barbeando-um-yak-e1en4hm" height="100%" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ![Yak or Dri](images/yak1.jpg)
 

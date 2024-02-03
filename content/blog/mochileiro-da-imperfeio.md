@@ -98,7 +98,7 @@ Podcast [Into The Zone](https://www.pushkin.fm/show/into-the-zone/). Não, não 
 
 ## Tecnologia é religião?
 
-Muita gente gosta de acreditar que não tem religião. Sem perceber, pode ser mais devota, mais carola, que muitos religiosos assumidos. [Neste episódio](https://anchor.fm/monoestereo/episodes/A-tecnologia--uma-religio-ekse7v) do podcast [Monólogo Estéreo](https://anchor.fm/monoestereo), me pergunto como isso funciona. [Transcrição aqui](https://eduf.me/a-tecnologia-e-uma-religiao/).
+Muita gente gosta de acreditar que não tem religião. Sem perceber, pode ser mais devota, mais carola, que muitos religiosos assumidos. [Neste episódio](https://anchor.fm/MonoEstéreo/episodes/A-tecnologia--uma-religio-ekse7v) do podcast [Monólogo Estéreo](https://anchor.fm/MonoEstéreo), me pergunto como isso funciona. [Transcrição aqui](https://eduf.me/a-tecnologia-e-uma-religiao/).
 
 * * *
 
@@ -130,7 +130,7 @@ Eduf
 
 ## Mais Eduf
 
-- [Podcast Monólogo Estéreo](https://anchor.fm/monoestereo)
+- [Podcast Monólogo Estéreo](https://anchor.fm/MonoEstéreo)
     
 - [Edições anteriores da Newsletter](https://eduf.substack.com/)
     

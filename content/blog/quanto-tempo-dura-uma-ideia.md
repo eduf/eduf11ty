@@ -5,7 +5,7 @@ tags:
   - "MonoEstereo"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/Quanto-tempo-dura-uma-ideia-e1hl194" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Quanto-tempo-dura-uma-ideia-e1hl194" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Cedo ou tarde, quase todo escritor ou artista se depara com uma questão: quanto tempo esse assunto vai _durar_? E _durar_ pode significar várias coisas.
 

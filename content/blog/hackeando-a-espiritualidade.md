@@ -7,7 +7,7 @@ tags:
   - "mente"
 ---
 
-<iframe style="width: 100%; height: 180px;" src="https://anchor.fm/monoestereo/embed/episodes/Hackeando-a-Espiritualidade-e18a5kp" width="100%" height="180px" frameborder="0" scrolling="no"></iframe>
+<iframe style="width: 100%; height: 180px;" src="https://anchor.fm/MonoEstéreo/embed/episodes/Hackeando-a-Espiritualidade-e18a5kp" width="100%" height="180px" frameborder="0" scrolling="no"></iframe>
 
 ## Transcrição
 

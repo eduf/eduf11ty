@@ -8,6 +8,6 @@ tags:
   - "politica"
 ---
 
-<iframe style="width: 100%; height: 180px;" src="https://anchor.fm/monoestereo/embed/episodes/Corao-autoritrio-ef1r17" width="100%" height="180px" frameborder="0" scrolling="no"></iframe>
+<iframe style="width: 100%; height: 180px;" src="https://anchor.fm/MonoEstéreo/embed/episodes/Corao-autoritrio-ef1r17" width="100%" height="180px" frameborder="0" scrolling="no"></iframe>
 
 Quando somos fascistóides no cotidiano.

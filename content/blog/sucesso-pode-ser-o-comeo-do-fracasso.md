@@ -84,7 +84,7 @@ Eduf
 
 ## **Mais Eduf**
 
-- [Podcast Monólogo Estéreo](https://anchor.fm/monoestereo)
+- [Podcast Monólogo Estéreo](https://anchor.fm/MonoEstéreo)
     
 - [Edições anteriores da Newsletter](https://eduf.substack.com/)
     

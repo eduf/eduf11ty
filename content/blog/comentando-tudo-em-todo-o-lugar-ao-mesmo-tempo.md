@@ -9,7 +9,7 @@ tags:
   - "tudo-em-todo-lugar-ao-mesmo-tempo"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/Comentando-Tudo-em-Todo-o-Lugar-ao-Mesmo-Tempo-e1j6ur2" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Comentando-Tudo-em-Todo-o-Lugar-ao-Mesmo-Tempo-e1j6ur2" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 _Tudo em Todo o Lugar ao Mesmo Tempo_, é um dos filmes mais aguardados de 2022. Foi produzido pela [A24](https://a24films.com/), que se tornou uma espécie de grife, por misturar as fronteiras entre o cinema experimental e os blockbusters.
 

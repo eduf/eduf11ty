@@ -9,7 +9,7 @@ tags:
   - "severance"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/Ruptura-sem-ruptura-e1h1nv2" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Ruptura-sem-ruptura-e1h1nv2" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcrição
 

@@ -57,7 +57,7 @@ E continuo seguindo a **estratégia centrífuga de publicação**, [conforme e
 
 A ideia da migração surgiu de dois desequilíbrios: nos ventos e nas finanças. O antigo sistema de publicação começou a ficar pesado, confuso e… caro. Como minha operação ainda não é sustentável, precisei baixar custos.
 
-No começo, pensei em mudar para o [Beehiive](https://www.beehiiv.com/), um excelente concorrente do Substack. Mas também sairia caro. Então, se tolero [YouTube](https://www.youtube.com/@edufme) e [Anchor](https://anchor.fm/monoestereo/), por que não o Substack? Basta ter cópias do material no meu site.
+No começo, pensei em mudar para o [Beehiive](https://www.beehiiv.com/), um excelente concorrente do Substack. Mas também sairia caro. Então, se tolero [YouTube](https://www.youtube.com/@edufme) e [Anchor](https://anchor.fm/MonoEstéreo/), por que não o Substack? Basta ter cópias do material no meu site.
 
 E, claro, se você realmente quer receber o material extra, mas não pode pagar por ele, é só me pedir, respondendo a este e-mail. Nem precisa se justificar.
 

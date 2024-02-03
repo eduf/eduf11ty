@@ -52,7 +52,7 @@ Por falar nisso, estou de olho no trabalho do quadrinista francês, [Christophe 
 
 ## E se o Karate Kid fosse feito em 2020?
 
-O episódio desta semana do podcast [Monólogo Estéreo](https://anchor.fm/monoestereo) chama-se [E se Karate Kid fosse feito em 2020](https://anchor.fm/monoestereo/episodes/E-se-Karate-Kid-acontecesse-em-2020-eii4en)?. Daniel San é uma das mais clássicas vítimas de bullying dos anos 80 - só deve perder pra [Luka, da Susane Vega](https://www.youtube.com/watch?v=VZt7J0iaUD0). 😁
+O episódio desta semana do podcast [Monólogo Estéreo](https://anchor.fm/MonoEstéreo) chama-se [E se Karate Kid fosse feito em 2020](https://anchor.fm/MonoEstéreo/episodes/E-se-Karate-Kid-acontecesse-em-2020-eii4en)?. Daniel San é uma das mais clássicas vítimas de bullying dos anos 80 - só deve perder pra [Luka, da Susane Vega](https://www.youtube.com/watch?v=VZt7J0iaUD0). 😁
 
 É interessante pensar sobre como as pessoas lidam com as frustrações da infância e adolescência, como elas embarcam em jornadas de transcendência.
 
@@ -85,7 +85,7 @@ Eduf
 
 ## Mais Eduf
 
-🎤  [Podcast freestyle Monólogo Estéreo](https://anchor.fm/monoestereo)  
+🎤  [Podcast freestyle Monólogo Estéreo](https://anchor.fm/MonoEstéreo)  
 ✍️  [Textos no Medium](http://medium.com/@eduf)  
 🎧  [Peruano Saudita](https://soundcloud.com/eduf/sets/peruano-saudita-hom-nimo)  
 🎧  [Lost Mothers](https://soundcloud.com/eduf/sets/lost-mothers)  

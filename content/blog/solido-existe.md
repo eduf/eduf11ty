@@ -47,7 +47,7 @@ Talvez seja por isso que não deixamos a solidão se tornar nossa companheira. D
 
 ## As outras internets
 
-[O episódio dessa semana do Monólogo Estéreo](https://anchor.fm/monoestereo/episodes/As-outras-internets-ej7eng) trata da saudade que muitos de nós sentimos da internet pré-redes sociais. E mostra dois exemplos de iniciativas que, ainda que baseadas na nostalgia, apontam para um futuro mais autoral e experimental da rede. A inspiração do episódio veio de um [post do MIT Technology Review sobre os Digital Gardens](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/?truid=1f84621f9bcfa5afd89163978311ccc4&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=non-subs&utm_content=09-09-2020). Mais sobre a história e o conceito de DG [aqui](https://maggieappleton.com/garden-history). E sobre [Evergreen notes aqui](https://notes.andymatuschak.org/Evergreen_notes).
+[O episódio dessa semana do Monólogo Estéreo](https://anchor.fm/MonoEstéreo/episodes/As-outras-internets-ej7eng) trata da saudade que muitos de nós sentimos da internet pré-redes sociais. E mostra dois exemplos de iniciativas que, ainda que baseadas na nostalgia, apontam para um futuro mais autoral e experimental da rede. A inspiração do episódio veio de um [post do MIT Technology Review sobre os Digital Gardens](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/?truid=1f84621f9bcfa5afd89163978311ccc4&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=non-subs&utm_content=09-09-2020). Mais sobre a história e o conceito de DG [aqui](https://maggieappleton.com/garden-history). E sobre [Evergreen notes aqui](https://notes.andymatuschak.org/Evergreen_notes).
 
 * * *
 
@@ -79,7 +79,7 @@ Abraço‚ Eduf
 
 ## **Mais Eduf**
 
-- 🎤 [Podcast Monólogo Estéreo](https://anchor.fm/monoestereo)
+- 🎤 [Podcast Monólogo Estéreo](https://anchor.fm/MonoEstéreo)
     
 - 👽 [Edições anteriores da Newsletter](https://eduf.substack.com/)
     

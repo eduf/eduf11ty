@@ -8,7 +8,7 @@ tags:
   - "surrealismo"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/Algum-cure-essa-insnia-e1jisfp" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Algum-cure-essa-insnia-e1jisfp" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Todo mundo tem insônia, não é? Deve ser a coisa mais universal do universo. Todo mundo sabe o que é perder horas pensando infinitamente, até que você colapsa e, finalmente, dorme. Ou o despertador toca e você é obrigado a se levantar.
 

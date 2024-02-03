@@ -7,7 +7,7 @@ tags:
   - "tecnologia"
 ---
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/Como-a-tecnologia-digital-muda-a-poltica-e1almd6" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/Como-a-tecnologia-digital-muda-a-poltica-e1almd6" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcrição
 

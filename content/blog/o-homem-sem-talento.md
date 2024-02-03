@@ -8,7 +8,7 @@ tags:
   - "yoshiharu-tsuge"
 ---
 
-<iframe style="width: 100%; height: 180px;" src="https://anchor.fm/monoestereo/embed/episodes/O-Homem-Sem-Talento-ev445d" width="100%" height="180px" frameborder="0" scrolling="no"></iframe>
+<iframe style="width: 100%; height: 180px;" src="https://anchor.fm/MonoEstéreo/embed/episodes/O-Homem-Sem-Talento-ev445d" width="100%" height="180px" frameborder="0" scrolling="no"></iframe>
 
 - [Link pro livro na Amazon](https://www.amazon.com.br/Homem-sem-Talento-Yoshiharu-Tsuge/dp/8595710597?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=o+homem+sem+talento&qid=1618697860&sr=8-1&linkCode=ll1&tag=eduf-20&linkId=00e4826b4166d6f6133391fa39c75d6f&language=pt_BR&ref_=as_li_ss_tl)
 - [Link pro livro na Veneta](https://veneta.com.br/produto/pre-venda-o-homem-sem-talento/)

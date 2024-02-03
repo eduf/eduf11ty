@@ -33,7 +33,7 @@ Por isso, um ano de quarentena parece equivaler a cem anos de mutação.
 
 * * *
 
-### [MonoEstéreo](https://eduf.me/monoestereo/)
+### [MonoEstéreo](https://eduf.me/MonoEstéreo/)
 
 ## [Brazil (o filme) versus Expresso Futuro](https://eduf.me/brazil-o-filme-versus-expresso-futuro/)
 
@@ -63,7 +63,7 @@ Qualquer quantia me ajuda a ter mais tempo pra produzir mais e melhores trabalho
 
 ## Programação semanal
 
-- Segundas – [MonoEstéreo](https://eduf.me/tag/monoestereo/)
+- Segundas – [MonoEstéreo](https://eduf.me/tag/MonoEstéreo/)
 - Quartas – Newsletter – op-ed-uf
 - Sextas – [A Hora do Diletante](https://eduf.me/tag/a-hora-do-diletante/) – com Eduardo Pinheiro
 - Sábados (sempre que der) – Newsletter – só links

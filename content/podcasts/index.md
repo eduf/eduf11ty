@@ -12,7 +12,7 @@ Comecei a publicar podcasts no começo dos anos 2000. Produzi podcasts pras revi
 
 ## Projetos pessoais
 Programas que roterizei, apresentei, editei áudio e divulguei.
-- <a href="../tags/monoestereo/" rel="me">MonoEstéreo</a>
+- <a href="../tags/MonoEstéreo/" rel="me">MonoEstéreo</a>
 - <a href="../tags/diletante/" rel="me">A Hora do Diletante</a>
 
 ## Equipamentos

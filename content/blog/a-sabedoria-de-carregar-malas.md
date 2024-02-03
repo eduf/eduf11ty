@@ -11,7 +11,7 @@ coverImage: "meetins_with_remarkable_man1.jpg"
 
 _Cena do filme Encontro com Homens Notáveis._
 
-<iframe src="https://anchor.fm/monoestereo/embed/episodes/A-sabedoria-de-carregar-malas-e1kq41a" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/MonoEstéreo/embed/episodes/A-sabedoria-de-carregar-malas-e1kq41a" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 O primeiro semestre de 2022 foi o período mais nômade da minha vida. Troquei algumas vezes de casa, de cidade e até de país.
 

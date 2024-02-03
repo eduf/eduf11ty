@@ -61,11 +61,11 @@ Se você assistir até o final, talvez se lembre disso.
 
 ## Onde meu vira-lata está?
 
-Por falar em vira-latas, o episódio desta semana do [Monólogo Estéreo](https://anchor.fm/monoestereo), parte de um [documentário sobre Steve Ditko](https://www.youtube.com/watch?v=3gwDnhMO8is), o recluso e misterioso criador do Homem Aranha, cujo personagem [Mr. A](https://en.wikipedia.org/wiki/Mr._A#:~:text=A is a fictional comic,witzend %233 (1967).) inspirou Alan Moore a criar o [Rorschach](https://en.wikipedia.org/wiki/Rorschach_(character)).
+Por falar em vira-latas, o episódio desta semana do [Monólogo Estéreo](https://anchor.fm/MonoEstéreo), parte de um [documentário sobre Steve Ditko](https://www.youtube.com/watch?v=3gwDnhMO8is), o recluso e misterioso criador do Homem Aranha, cujo personagem [Mr. A](https://en.wikipedia.org/wiki/Mr._A#:~:text=A is a fictional comic,witzend %233 (1967).) inspirou Alan Moore a criar o [Rorschach](https://en.wikipedia.org/wiki/Rorschach_(character)).
 
 Acabo discutindo nossa paixão pelos ex-losers, pelos salvadores anônimos ou personagens que nunca são reconhecidos pela sociedade, mas que, num certo momento, acabam por “mostrar ao universo” que estavam certos.
 
-Por que adoramos uma grande e sofrida redenção, numa sociedade tão viciada em conveniência? Não que eu tenha uma resposta, exatamente, mas [ouça lá](https://anchor.fm/monoestereo/episodes/Onde-meu-vira-lata-est-ejtm0d).
+Por que adoramos uma grande e sofrida redenção, numa sociedade tão viciada em conveniência? Não que eu tenha uma resposta, exatamente, mas [ouça lá](https://anchor.fm/MonoEstéreo/episodes/Onde-meu-vira-lata-est-ejtm0d).
 
 * * *
 
@@ -92,7 +92,7 @@ Eduf
 
 ## Mais Eduf
 
-- [Podcast Monólogo Estéreo](https://anchor.fm/monoestereo)
+- [Podcast Monólogo Estéreo](https://anchor.fm/MonoEstéreo)
     
 - [Edições anteriores da Newsletter](https://eduf.substack.com/)
     

@@ -43,7 +43,7 @@ Tomara que eu esteja bem errado.
 
 ## Aquecimento mental global
 
-Todo conteúdo que consumimos deixa um resíduo mental. Precisamos de uma ecologia do pensamento? Essa é a pergunta que faço pra mim mesmo [no episódio dessa semana do podcast Monólogo Estéreo](https://anchor.fm/monoestereo/episodes/Aquecimento-mental-global-ek83ci). Pra me ajudar a respondê-la, peço a ajuda da meditação – essa técnica revolucionária, que, estranhamente, anda na moda. Agora também teremos [transcrição do áudio no site Eduf.me](https://eduf.me/aquecimento-mental-global/). Ouça lá.
+Todo conteúdo que consumimos deixa um resíduo mental. Precisamos de uma ecologia do pensamento? Essa é a pergunta que faço pra mim mesmo [no episódio dessa semana do podcast Monólogo Estéreo](https://anchor.fm/MonoEstéreo/episodes/Aquecimento-mental-global-ek83ci). Pra me ajudar a respondê-la, peço a ajuda da meditação – essa técnica revolucionária, que, estranhamente, anda na moda. Agora também teremos [transcrição do áudio no site Eduf.me](https://eduf.me/aquecimento-mental-global/). Ouça lá.
 
 * * *
 
@@ -60,7 +60,7 @@ Eduf
 
 ## **Mais Eduf**
 
-- [Podcast Monólogo Estéreo](https://anchor.fm/monoestereo)
+- [Podcast Monólogo Estéreo](https://anchor.fm/MonoEstéreo)
     
 - [Edições anteriores da Newsletter](https://eduf.substack.com/)
     
