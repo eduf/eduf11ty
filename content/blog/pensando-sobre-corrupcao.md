@@ -2,7 +2,7 @@
 title: "Pensando sobre corrupção"
 date: "2021-12-06"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "corrupcao"
   - "politica"
 ---

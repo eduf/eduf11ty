@@ -2,7 +2,7 @@
 title: "Será que eu quero isso mesmo?"
 date: "2021-09-13"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "comportamento"
 ---
 

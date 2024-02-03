@@ -2,7 +2,7 @@
 title: "A colonização do design"
 date: "2021-07-04"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "apple"
   - "bauhaus"
   - "design"

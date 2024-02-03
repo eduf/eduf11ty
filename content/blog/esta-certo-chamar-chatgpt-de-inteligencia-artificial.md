@@ -2,7 +2,7 @@
 title: "Está certo chamar ChatGPT de inteligência artificial?"
 date: "2023-01-24"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "inteligência artificial"
   - "jornalismo"
   - "openai"

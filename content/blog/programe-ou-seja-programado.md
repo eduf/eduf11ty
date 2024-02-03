@@ -2,7 +2,7 @@
 title: "Programe ou seja programado"
 date: "2022-05-22"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "douglas-rushkoff"
   - "livros"
   - "tecnologia"

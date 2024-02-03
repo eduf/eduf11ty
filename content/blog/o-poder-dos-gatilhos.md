@@ -2,7 +2,7 @@
 title: "O poder dos gatilhos"
 date: "2021-08-02"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "comportamento"
 ---
 

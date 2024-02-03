@@ -2,7 +2,7 @@
 title: "Crachá psiquiátrico"
 date: "2022-09-26"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "inclusao-social"
   - "psiquiatria"
 ---

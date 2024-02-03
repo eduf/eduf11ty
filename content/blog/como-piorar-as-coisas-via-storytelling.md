@@ -2,7 +2,7 @@
 title: "Como piorar as coisas via storytelling"
 date: "2022-06-27"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "autoconhecimento"
   - "storytelling"
 ---

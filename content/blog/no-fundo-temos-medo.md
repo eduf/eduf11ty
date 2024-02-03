@@ -2,7 +2,7 @@
 title: "No fundo, temos medo"
 date: "2021-08-30"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "comportamento"
   - "modernidade"
 ---

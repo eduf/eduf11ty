@@ -2,7 +2,7 @@
 title: "Pensando a longo prazo"
 date: "2021-11-15"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "politica"
 ---
 

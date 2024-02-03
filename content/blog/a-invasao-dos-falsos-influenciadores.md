@@ -2,7 +2,7 @@
 title: "A invasão dos falsos influenciadores"
 date: "2021-10-25"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "alimentacao"
   - "conhecimento"
   - "redes-sociais"

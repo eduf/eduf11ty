@@ -2,7 +2,7 @@
 title: "Hackeando a Espiritualidade"
 date: "2021-10-04"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "espiritualidade"
   - "mente"
 ---

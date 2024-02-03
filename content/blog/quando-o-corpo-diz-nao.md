@@ -2,7 +2,7 @@
 title: "Quando o corpo diz não"
 date: "2021-05-03"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "gabor-mate"
   - "saude"
   - "tecnologia"

@@ -2,7 +2,7 @@
 title: "A grande guerra de 2022"
 date: "2021-11-01"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "eleicoes"
   - "politica"
   - "redes-sociais"

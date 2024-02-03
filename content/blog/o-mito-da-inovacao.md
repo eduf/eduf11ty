@@ -2,7 +2,7 @@
 title: "O mito da inovação"
 date: "2021-03-09"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "inovacao"
   - "tecnologia"
 ---

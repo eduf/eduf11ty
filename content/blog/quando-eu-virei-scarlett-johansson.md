@@ -2,7 +2,7 @@
 title: "Quando eu virei Scarlett Johansson"
 date: "2021-01-22"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "humor"
   - "scarlett-johanson"
   - "surreal"

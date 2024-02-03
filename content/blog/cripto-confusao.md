@@ -2,7 +2,7 @@
 title: "Cripto confusão"
 date: "2021-03-29"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "cultura"
   - "economia"
 ---

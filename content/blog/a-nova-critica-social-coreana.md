@@ -2,7 +2,7 @@
 title: "A nova crítica social coreana"
 date: "2021-10-11"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "cinema"
   - "round-6"
   - "series"

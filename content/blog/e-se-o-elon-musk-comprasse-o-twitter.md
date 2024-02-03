@@ -2,7 +2,7 @@
 title: "E se o Elon Musk comprasse o Twitter?"
 date: "2022-04-18"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "elon-musk"
   - "redes-sociais"
   - "tecnologia"

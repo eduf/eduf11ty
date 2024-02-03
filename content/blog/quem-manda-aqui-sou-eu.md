@@ -2,7 +2,7 @@
 title: "Quem manda aqui sou eu!"
 date: "2021-05-16"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "cinema"
   - "federico-fellini"
   - "politica"

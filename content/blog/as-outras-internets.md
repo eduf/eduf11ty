@@ -2,7 +2,7 @@
 title: "As outras internets"
 date: "2021-01-22"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "digital-gardens"
 ---
 

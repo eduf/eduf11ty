@@ -2,7 +2,7 @@
 title: "Anticorpos de propaganda"
 date: "2021-02-15"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "marketing"
   - "propaganda"
   - "tecnologia"

@@ -2,7 +2,7 @@
 title: "Ruptura sem ruptura"
 date: "2022-04-11"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "cultura"
   - "seriados"
   - "series"

@@ -2,7 +2,7 @@
 title: "Acumuladores de cultura"
 date: "2021-01-22"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "comportamento"
 ---
 

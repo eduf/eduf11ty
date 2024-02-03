@@ -2,7 +2,7 @@
 title: "Improviso - Oportunidades para um mundo pós-Trump"
 date: "2021-01-22"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "politica"
 ---
 

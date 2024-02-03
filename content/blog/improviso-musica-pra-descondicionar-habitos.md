@@ -2,10 +2,10 @@
 title: "Improviso - Música pra descondicionar hábitos"
 date: "2021-02-01"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "jazz"
   - "mente"
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "música"
 ---
 

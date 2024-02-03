@@ -2,7 +2,7 @@
 title: "O estranhamento do Dr. Estranho"
 date: "2022-05-09"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "bertolt-brecht"
   - "dr-strange"
   - "marvel"

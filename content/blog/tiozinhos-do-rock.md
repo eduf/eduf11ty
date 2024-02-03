@@ -2,7 +2,7 @@
 title: "Tiozinhos do Rock"
 date: "2018-08-29"
 tags: 
-  - "podcast"
+  - "MonoEstéreo"
   - "música"
 ---
 

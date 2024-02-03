@@ -2,7 +2,7 @@
 title: "Saúde mental no Instagram"
 date: "2021-09-20"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "mente"
   - "redes-sociais"
 ---

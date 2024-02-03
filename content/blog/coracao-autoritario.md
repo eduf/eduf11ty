@@ -2,9 +2,9 @@
 title: "Coração autoritário"
 date: "2020-05-06"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "mente"
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "politica"
 ---
 

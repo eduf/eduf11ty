@@ -2,7 +2,7 @@
 title: "Lições do gênero mais ignorado da música pop"
 date: "2021-07-11"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "música"
 ---
 

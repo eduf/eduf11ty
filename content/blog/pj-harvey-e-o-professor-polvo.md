@@ -2,7 +2,7 @@
 title: "PJ Harvey e o Professor Polvo"
 date: "2021-05-09"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "documentarios"
   - "música"
   - "pj-harvey"

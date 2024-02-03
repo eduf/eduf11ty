@@ -2,7 +2,7 @@
 title: "Cada época tem a distorção que merece"
 date: "2021-03-01"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "música"
 ---
 

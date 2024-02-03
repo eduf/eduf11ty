@@ -2,7 +2,7 @@
 title: "Werner Herzog: \"prefiro morrer a fazer terapia\""
 date: "2023-10-19"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "autoconhecimento"
   - "cinema"
   - "terapia"

@@ -2,7 +2,7 @@
 title: "Irma Vep: a série mais maluca de 2022"
 date: "2022-07-18"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "irma-vep"
   - "olivier-assayas"
   - "seriados"

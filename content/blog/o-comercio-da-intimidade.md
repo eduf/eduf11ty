@@ -2,7 +2,7 @@
 title: "O comércio da intimidade"
 date: "2022-06-13"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "intimidade"
   - "onlyfans"
   - "tecnologia"

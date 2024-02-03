@@ -2,7 +2,7 @@
 title: "Let it Go"
 date: "2021-01-22"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "humor"
   - "surreal"
 ---

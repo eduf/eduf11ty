@@ -2,7 +2,7 @@
 title: "Sandman, esse pós-moderno"
 date: "2022-08-22"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "neil-gaiman"
   - "netflix"
   - "pos-modernismo"

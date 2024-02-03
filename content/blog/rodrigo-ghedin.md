@@ -2,7 +2,7 @@
 title: "Outros jeitos de pensar sobre tecnologia, com Rodrigo Ghedin."
 date: "2022-07-22"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "manual-do-usuario"
   - "tecnologia"
 ---

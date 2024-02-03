@@ -2,7 +2,7 @@
 title: "Novo podcast: A Hora do Diletante"
 date: "2021-02-26"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "adam-curtis"
   - "documentarios"
 ---

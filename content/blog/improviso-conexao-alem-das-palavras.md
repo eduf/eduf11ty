@@ -2,7 +2,7 @@
 title: "Improviso - Conexão além das palavras"
 date: "2021-01-22"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "redes-sociais"
 ---
 

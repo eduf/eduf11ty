@@ -2,7 +2,7 @@
 title: "Meditação guiada da OpenAI"
 date: "2023-11-23"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "inteligência artificial"
   - "openai"
   - "sam-altman"

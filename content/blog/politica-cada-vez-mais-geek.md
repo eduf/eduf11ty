@@ -2,7 +2,7 @@
 title: "Política cada vez mais geek"
 date: "2022-03-14"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "crypto"
   - "politica"
   - "tecnologia"

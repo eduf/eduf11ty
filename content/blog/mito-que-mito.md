@@ -2,7 +2,7 @@
 title: "Mito? Que mito?"
 date: "2022-10-17"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "indigenas"
   - "politica"
   - "spotify"

@@ -2,7 +2,7 @@
 title: "De volta do futuro"
 date: "2022-11-14"
 tags: 
-  - "MonoEstereo"
+  - "MonoEstéreo"
   - "big-tech"
   - "mastodon"
   - "twitter"
