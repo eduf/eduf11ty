@@ -2,7 +2,7 @@
 title: "O Google está contra mim!"
 date: "2018-02-27"
 tags: 
-  - "podcast"
+  - "MonoEstéreo"
   - "tecnologia"
 ---
 

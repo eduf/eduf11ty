@@ -2,7 +2,7 @@
 title: "Boi de Piranha"
 date: "2018-02-28"
 tags: 
-  - "podcast"
+  - "MonoEstéreo"
   - "politica"
 ---
 
