@@ -13,3 +13,5 @@ Série de roteiros para podcasts desenvolvida para a [B9 / Braincast](https://ww
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5SVyOJPbtWoRyQCY1vr3tw?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/09LQRDH9MnJK8cdE3jGXZS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0Cs0CL2iH2QPiNMqaQWQOl?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
