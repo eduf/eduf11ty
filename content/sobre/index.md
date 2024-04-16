@@ -8,14 +8,16 @@ eleventyNavigation:
 
 {% image "eduf_perfil640.webp", "Perfil do Eduf" %}
 
-Olá, eu sou Eduardo Fernandes, roteirista, ghostwriter e jornalista. Eduf.me é um arquivo de tudo o que eu faço na Internet. Funciona como um backup, já que as plataformas e sistemas de publicação on-line tendem a mudar ou morrer com certa frequência.
+Olá, eu sou Eduardo Fernandes, roteirista, ghostwriter e jornalista.
+
+Eduf.me é um arquivo. Traz parte do material que publico na Internet e que não cabe na linha editorial da minha newsletter, <a href="https://textosobletela.com" rel="me">Texto Sobre Tela</a>.
 
 ## Alguns dos meus projetos atuais:
 
 <ul>
     <li><a href="https://textosobletela.com" rel="me">Newsletter Texto Sobre Tela</a>.</li>
-    <li><a href="../tags/MonoEstéreo/"  rel="me">Podcast MonoEstéreo</a>.</li>
-    <li><a href="../tags/b9/" rel="me">Trabalhos mais recentes, como roteirista</a>.</li>
+    <li><a href="../tags/monoestereo/"  rel="me">Podcast MonoEstéreo</a>.</li>
+    <li><a href="../tags/b9/" rel="me">Trabalhos recentes, como roteirista da B9 / Braincast</a>.</li>
 </ul>
 
 ## O que já fiz
