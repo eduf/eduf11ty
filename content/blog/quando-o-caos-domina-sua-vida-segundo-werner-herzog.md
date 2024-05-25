@@ -26,4 +26,5 @@ Comentando o livro *Every Man for Himself and God Against All*, de Werner Herzog
 - [Dzongsar Khyentse Rinpoche](https://siddharthasintent.org/)
 
 ### Versão experimental em vídeo
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i-rOOUfxQ3Y?si=Se-9uy5EFAd3sQni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
