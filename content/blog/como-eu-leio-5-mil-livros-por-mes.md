@@ -1,6 +1,6 @@
 ---
 title: "Como eu leio 5 mil livros por mês. Só que não."
-date: "2024-05-18"
+date: "2024-06-07"
 tags: 
   - "MonoEstéreo"
   - "podcast"
