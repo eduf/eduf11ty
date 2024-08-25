@@ -53,4 +53,4 @@ O filme termina com Mattew no hospital, prestes a visitar Isabelle. Finalmente, 
 
 Da porta do quarto, Anna faz um dos jogos de adivinhação que Isabelle costumava fazer. Ela simula a cena de um filme. Diz que, se Mattew não soubesse seu título, o “castigo” seria entrar.
 
-Terminamos o filme com uma expressão confusa de Mattew. Não sabemos se ele acertou o nome do filme. Nem se visitou Isabelle.
+Terminamos a história com uma expressão confusa de Mattew. Não sabemos se ele acertou o nome do filme. Nem se visitou Isabelle.
