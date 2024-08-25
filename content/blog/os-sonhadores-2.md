@@ -35,7 +35,7 @@ Anna respeita o tempo emocional de Mattew, mas sabe que Isabelle vai morrer logo
 
 As revelações são sempre ligadas a um local específico de Paris ou a algum filme. Por exemplo, ela conduz Mattew ao lugar exato onde Theo morreu, na própria noite do protesto. Theo foi atingido por estilhaços de um coquetel Molotov.
 
-É importante que as revelações não sejam contadas nem por exposição e nem por flashbacks. Teremos apenas indicações sutis dos fatos. No caso da morte de Theo, Anna fala sobre as mortes de estudantes nos protestos, enquanto Mattew vê uma garra estilhaçada no chão.
+É importante que as revelações não sejam contadas nem por exposição e nem por *flashbacks*. Teremos apenas indicações sutis dos fatos. No caso da morte de Theo, Anna fala sobre as mortes de estudantes nos protestos, enquanto Mattew vê uma garra estilhaçada no chão.
 
 Então, Mattew começa a visitar boates específicas de Paris, não só da cena LGBTQ+, mas também ver outros estilos de práticas sexuais (mostradas sutilmente, já que ele só está observando as pessoas nos lugares). Começa a perceber como as coisas mudaram. O que ele fazia com os gêmeos em 1968 parece um tanto mais público.
 
