@@ -37,7 +37,7 @@ As revelações são sempre ligadas a um local específico de Paris ou a algum f
 
 É importante que as revelações não sejam contadas nem por exposição e nem por *flashbacks*. Teremos apenas indicações sutis dos fatos. No caso da morte de Theo, Anna fala sobre as mortes de estudantes nos protestos, enquanto Mattew vê uma garra estilhaçada no chão.
 
-Então, Mattew começa a visitar boates específicas de Paris, não só da cena LGBTQ+, mas também ver outros estilos de práticas sexuais (mostradas sutilmente, já que ele só está observando as pessoas nos lugares). Começa a perceber como as coisas mudaram. O que ele fazia com os gêmeos em 1968 parece um tanto mais público.
+Então, Mattew começa a visitar boates específicas de Paris, não só da cena LGBTQ+, mas também vê outros estilos de práticas sexuais (mostradas sutilmente, já que ele só está observando o que as pessoas fazem em público). Começa a perceber como as coisas mudaram. O que ele fazia com os gêmeos em 1968 não parece mais tão desafiante.
 
 Ou seja: durante o dia, Mattew faz uma exploração cultural de si mesmo, com Anna. À noite, explora sua própria sexualidade, sozinho.
 
