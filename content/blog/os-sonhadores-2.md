@@ -41,11 +41,11 @@ Então, Mattew começa a visitar boates específicas de Paris, não só da cena 
 
 Ou seja: durante o dia, Mattew faz uma exploração cultural de si mesmo, com Anna. À noite, explora sua própria sexualidade, sozinho.
 
-Anna e Mattew visitam o [Hospital de Salpêtrière](https://pt.wikipedia.org/wiki/Hospital_da_Salpêtrière). Aos poucos, começamos a entender que Isabelle foi brevemente internada ali, após a morte de Theo. Após a morte do irmão, ela se envolveu em atitudes autodestrutivas e os pais intervieram. Mas Isabelle saiu do hospital assim que os médicos descobriram que ela estava grávida.
+Anna e Mattew visitam o [Hospital de Salpêtrière](https://pt.wikipedia.org/wiki/Hospital_da_Salpêtrière). Aos poucos, começamos a entender que Isabelle foi brevemente internada ali. Depois da morte do irmão, ela se envolveu em atitudes autodestrutivas e os pais intervieram. Mas Isabelle saiu do hospital assim que os médicos descobriram que ela estava grávida.
 
 Aos poucos, começa a ficar claro que Anna é filha de Mattew. Ela foi proibida pela mãe de tentar entrar em contato com o pai. Mas tudo isso é revelado por meio de citações ao cinema clássico dos EUA. A narrativa vai se montando aos poucos, conforme os dois discutem os filmes.
 
-Isabelle não quis ter outro amante, porque Mattew era o único que estava associado ao seu maior amor, Theo. Anna foi criada pelos avós. Assim, Isabelle se tornou uma mãe ausente, sempre autocentrada, passando por períodos de depressão e euforia.
+Isabelle não quis ter outro amante, porque Mattew era o único que estava associado a Theo. Foi o único oficialmente "aceito no grupo". Anna foi criada pelos avós. Assim, Isabelle se tornou uma mãe ausente, autocentrada, passando por períodos de depressão e euforia.
 
 Os dois entendem a situação. Mas nunca se fala abertamente sobre o assunto.
 
