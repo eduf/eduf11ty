@@ -9,10 +9,7 @@ layout: layouts/base.njk
 {% if coverImage %}<div class="image-wrapper">{% image coverImage, title %}</div>{% endif %}
 
 <article class="article-wrapper">
-	<div class="autor">
-		<p>Por <a href="https://eduf.me/sobre/" rel="me">Eduardo Fernandes</a>.</p>
-		<p><a href="https://textosobretela.com" rel="me" nofollow>Siga a newsletter Texto Sobre Tela</a> e receba textos como esse em sua caixa postal.</p>
-	</div>
+	<p>Por <a href="https://eduf.me/sobre/" rel="me">Eduardo Fernandes</a>.</p>
 	{{ content | safe }}
 	<hr>
 	<ul class="post-metadata">
@@ -21,4 +18,7 @@ layout: layouts/base.njk
 		<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
 		{%- endfor %}
 	</ul>
+	<div class="autor">
+		<p><a href="https://textosobretela.com" rel="me" nofollow>Siga a newsletter Texto Sobre Tela</a> e receba textos como esse em sua caixa postal.</p>
+	</div>
 </article>
