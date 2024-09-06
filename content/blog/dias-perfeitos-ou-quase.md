@@ -5,7 +5,7 @@ tags:
   - "cinema"
   - "Wim Wenders"
   - "cinema japonês"
-  - "Mubi"
+  - "mubi"
   - "Japão"
   - "MonoEstéreo"
   - "podcast"

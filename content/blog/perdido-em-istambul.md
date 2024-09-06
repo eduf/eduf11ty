@@ -5,7 +5,7 @@ tags:
   - "cinema"
   - "Levan Akin"
   - "Crossing"
-  - "Mubi"
+  - "mubi"
   - "Turquia"
   - "MonoEstéreo"
   - "podcast"
