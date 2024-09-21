@@ -2,7 +2,7 @@
 title: "As paredes quebradas de Fleabag"
 date: "2024-09-20"
 tags: 
-  - "séries"
+  - "Séries"
   - "Fleabag"
   - "Phoebe Waller Bridge"
   - "Inglaterra"
