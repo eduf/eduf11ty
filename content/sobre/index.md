@@ -10,7 +10,7 @@ eleventyNavigation:
 
 Olá, eu sou Eduardo Fernandes, roteirista, ghostwriter e jornalista.
 
-Eduf.me é um arquivo. Traz parte do material que publico na Internet e que não cabe na linha editorial da minha newsletter, <a href="https://textosobletela.com" rel="me">Texto Sobre Tela</a>.
+Eduf.me é um arquivo. Traz parte do material que publico na Internet e que não cabe na linha editorial da minha newsletter, <a href="https://textosobretela.com" rel="me">Texto Sobre Tela</a>.
 
 ## Alguns dos meus projetos atuais:
 
