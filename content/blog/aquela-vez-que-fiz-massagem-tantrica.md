@@ -5,8 +5,6 @@ tags:
   - "humor"
 ---
 
-![Cama de massagem tântrica](https://eduf.me/wp-content/uploads/2021/10/massagem.webp)
-
 Recentemente, fui convidado a fazer uma sessão de massagem tântrica. Até estou numa fase de alongamento mental, mas só a proposta já me causou quase um estiramento.
 
 É que conheço muito pouco sobre o assunto. O suficiente para ter preconceitos: coisa de hippie, corrupção de tradições sérias do Induísmo, ou simplesmente uma masturbação cara.
