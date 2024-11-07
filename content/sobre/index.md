@@ -15,7 +15,7 @@ Eduf.me é um arquivo. Traz parte do material que publico na Internet e que não
 ## Alguns dos meus projetos atuais:
 
 <ul>
-    <li><a href="https://textosobletela.com" rel="me">Newsletter Texto Sobre Tela</a>.</li>
+    <li><a href="https://textosobretela.com" rel="me">Newsletter Texto Sobre Tela</a>.</li>
     <li><a href="../tags/monoestereo/"  rel="me">Podcast MonoEstéreo</a>.</li>
     <li><a href="../tags/b9/" rel="me">Trabalhos recentes, como roteirista da B9 / Braincast</a>.</li>
 </ul>
