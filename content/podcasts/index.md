@@ -5,15 +5,22 @@ eleventyNavigation:
   order: 4
 ---
 # Podcasts
-Comecei a publicar podcasts no começo dos anos 2000. Produzi podcasts pras revistas Superinteressante, Gameworld e Trip. Hoje, escrevo roteiros pra B9 (Braincast), entre outras agências.
 
-## Roteiros pro Braincast
+## Roteiros
 - <a href="../tags/b9/" rel="bookmark">Mais recentes</a>
 
 ## Projetos pessoais
 Programas que roterizei, apresentei, editei áudio e divulguei.
 - <a href="../tags/monoestereo/" rel="me">MonoEstéreo</a>
 - <a href="../tags/diletante/" rel="me">A Hora do Diletante</a>
+
+## História
+Publico podcasts desde o começo dos anos 2000. Produzi alguns dos primeiros do Brasil, pras revistas Superinteressante, Gameworld e Trip. Hoje, escrevo roteiros pra B9 (Braincast), entre outras agências.
+
+Minha paixão principal são os podcasts narrativos e de pesquisa aprofundada. Também gosto de produzir áudio e criar ambientes sonoros imersivos.
+
+Alguns exemplos de ficção que já publiquei:
+- <a href="https://open.spotify.com/episode/5qJpCSCIiVUvn2hSHePFRt" rel="me">Música para cachorros (2020)</a>
 
 ## Equipamentos
 - [Reaper](https://www.reaper.fm/)
