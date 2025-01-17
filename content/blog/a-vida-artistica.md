@@ -6,7 +6,7 @@ tags:
   - "artes"
   - "criacao"
   - "criadores"
-  - "david-lynch"
+  - "david lynch"
   - "nick-cave"
 ---
 

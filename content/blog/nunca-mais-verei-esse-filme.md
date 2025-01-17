@@ -4,7 +4,7 @@ date: "2023-08-23"
 tags: 
   - "newsletter"
   - "cinema"
-  - "david-lynch"
+  - "david lynch"
   - "tecnologia"
 ---
 
