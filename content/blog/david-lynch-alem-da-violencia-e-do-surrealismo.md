@@ -3,7 +3,7 @@ title: "David Lynch, além da violência e do surrealismo"
 date: "2025-01-17"
 tags: 
   - "cinema"
-  - "David Lynch"
+  - "david lynch"
   - "MonoEstéreo"
   - "podcast"
 ---
