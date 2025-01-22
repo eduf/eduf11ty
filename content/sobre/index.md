@@ -1,8 +1,5 @@
 ---
 layout: layouts/base.njk
-eleventyNavigation:
-  key: Sobre
-  order: 2
 ---
 # Sobre Eduf.me
 
