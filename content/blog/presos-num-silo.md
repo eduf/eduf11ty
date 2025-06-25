@@ -8,7 +8,6 @@ tags:
   - "sci-fi"
   - "series"
   - "silo"
-coverImage: "duotone-1.png"
 ---
 
 _Cena da série Silo, da Apple TV._
